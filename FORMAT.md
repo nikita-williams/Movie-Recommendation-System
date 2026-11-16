@@ -33,3 +33,45 @@ eval_users = np.load(d + "eval_users.npy")
 hist = pd.read_csv(d + "eval_train_history.csv")
 test = pd.read_csv(d + "eval_test.csv")
 ```
+
+### Data Stats
+
+// data-stats.json
+
+```
+{
+  "rows": 25000095,
+  "missing_values": 0,
+  "duplicate_pairs": 0,
+  "cutoff_date": "2017-03-24 01:50:04",
+  "share_after_cutoff": 0.15000002999988601,
+  "scales": {
+    "10": {
+      "users": 16255,
+      "movies_kept": 6135,
+      "likes": 1015439
+    },
+    "30": {
+      "users": 48763,
+      "movies_kept": 9161,
+      "likes": 3149794
+    },
+    "100": {
+      "users": 162541,
+      "movies_kept": 12870,
+      "likes": 10559313
+    }
+  },
+  "eval": {
+    "users_drawn": 580,
+    "eligible_users": 580,
+    "share_of_10pct_users_eligible": 0.035681328821900955
+  },
+  "full_data": {
+    "users": 162541,
+    "movies": 59047,
+    "positive_share": 0.4981105471799207,
+    "top_1pct_movies_share_of_ratings": 0.4759133115294162
+  }
+}
+```
