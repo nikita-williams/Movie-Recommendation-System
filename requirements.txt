@@ -1,0 +1,4 @@
+numpy
+scipy
+pandas
+datasketch   # only for cross-checking MinHash in test_pipeline.py
