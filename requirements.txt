@@ -1,4 +1,6 @@
-numpy
-scipy
+numpy>=1.24
+scipy>=1.11
 pandas
-datasketch   # only for cross-checking MinHash in test_pipeline.py
+datasketch
+psutil>=5.9
+pytest>=7

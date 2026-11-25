@@ -1,0 +1,6968 @@
+[
+  {
+    "label": "load_data",
+    "elapsed_s": 0.06305958400116651,
+    "rss_before_mb": 101.140625,
+    "rss_after_mb": 137.59375
+  },
+  {
+    "label": "popularity_user_493",
+    "elapsed_s": 0.0029504579997592373,
+    "rss_before_mb": 139.0,
+    "rss_after_mb": 146.78125
+  },
+  {
+    "label": "exact_user_493",
+    "elapsed_s": 0.018766000001050998,
+    "rss_before_mb": 146.78125,
+    "rss_after_mb": 150.171875
+  },
+  {
+    "label": "popularity_user_605",
+    "elapsed_s": 0.0024989159992401255,
+    "rss_before_mb": 150.171875,
+    "rss_after_mb": 157.953125
+  },
+  {
+    "label": "exact_user_605",
+    "elapsed_s": 0.007508874999984982,
+    "rss_before_mb": 157.953125,
+    "rss_after_mb": 158.25
+  },
+  {
+    "label": "popularity_user_814",
+    "elapsed_s": 0.002680749999854015,
+    "rss_before_mb": 158.25,
+    "rss_after_mb": 158.25
+  },
+  {
+    "label": "exact_user_814",
+    "elapsed_s": 0.012225542001033318,
+    "rss_before_mb": 158.25,
+    "rss_after_mb": 159.546875
+  },
+  {
+    "label": "popularity_user_934",
+    "elapsed_s": 0.0022359579998010304,
+    "rss_before_mb": 159.546875,
+    "rss_after_mb": 160.8125
+  },
+  {
+    "label": "exact_user_934",
+    "elapsed_s": 0.026781082999150385,
+    "rss_before_mb": 160.8125,
+    "rss_after_mb": 162.59375
+  },
+  {
+    "label": "popularity_user_1185",
+    "elapsed_s": 0.002204541999162757,
+    "rss_before_mb": 162.59375,
+    "rss_after_mb": 162.59375
+  },
+  {
+    "label": "exact_user_1185",
+    "elapsed_s": 0.01965470799950708,
+    "rss_before_mb": 162.59375,
+    "rss_after_mb": 162.609375
+  },
+  {
+    "label": "popularity_user_1880",
+    "elapsed_s": 0.0023629999996046536,
+    "rss_before_mb": 162.609375,
+    "rss_after_mb": 162.609375
+  },
+  {
+    "label": "exact_user_1880",
+    "elapsed_s": 0.015794041000845027,
+    "rss_before_mb": 162.609375,
+    "rss_after_mb": 162.640625
+  },
+  {
+    "label": "popularity_user_2065",
+    "elapsed_s": 0.0025026670009538066,
+    "rss_before_mb": 162.640625,
+    "rss_after_mb": 170.390625
+  },
+  {
+    "label": "exact_user_2065",
+    "elapsed_s": 0.015131374999327818,
+    "rss_before_mb": 170.390625,
+    "rss_after_mb": 170.40625
+  },
+  {
+    "label": "popularity_user_2448",
+    "elapsed_s": 0.002354083999307477,
+    "rss_before_mb": 170.40625,
+    "rss_after_mb": 170.40625
+  },
+  {
+    "label": "exact_user_2448",
+    "elapsed_s": 0.009885583998766378,
+    "rss_before_mb": 170.40625,
+    "rss_after_mb": 170.4375
+  },
+  {
+    "label": "popularity_user_2765",
+    "elapsed_s": 0.0027167499993083766,
+    "rss_before_mb": 170.4375,
+    "rss_after_mb": 170.4375
+  },
+  {
+    "label": "exact_user_2765",
+    "elapsed_s": 0.008544709000489092,
+    "rss_before_mb": 170.4375,
+    "rss_after_mb": 170.46875
+  },
+  {
+    "label": "popularity_user_2774",
+    "elapsed_s": 0.0021172079996176763,
+    "rss_before_mb": 170.46875,
+    "rss_after_mb": 170.46875
+  },
+  {
+    "label": "exact_user_2774",
+    "elapsed_s": 0.011711790999470395,
+    "rss_before_mb": 170.46875,
+    "rss_after_mb": 170.59375
+  },
+  {
+    "label": "popularity_user_3249",
+    "elapsed_s": 0.002379167000981397,
+    "rss_before_mb": 170.59375,
+    "rss_after_mb": 170.59375
+  },
+  {
+    "label": "exact_user_3249",
+    "elapsed_s": 0.014341459000206669,
+    "rss_before_mb": 170.59375,
+    "rss_after_mb": 170.6875
+  },
+  {
+    "label": "popularity_user_3272",
+    "elapsed_s": 0.0023110000001906883,
+    "rss_before_mb": 170.6875,
+    "rss_after_mb": 170.6875
+  },
+  {
+    "label": "exact_user_3272",
+    "elapsed_s": 0.01614249999875028,
+    "rss_before_mb": 170.6875,
+    "rss_after_mb": 170.78125
+  },
+  {
+    "label": "popularity_user_3310",
+    "elapsed_s": 0.0025119160000031115,
+    "rss_before_mb": 170.78125,
+    "rss_after_mb": 170.78125
+  },
+  {
+    "label": "exact_user_3310",
+    "elapsed_s": 0.012030416999550653,
+    "rss_before_mb": 170.78125,
+    "rss_after_mb": 170.78125
+  },
+  {
+    "label": "popularity_user_3524",
+    "elapsed_s": 0.0020532500002445886,
+    "rss_before_mb": 170.78125,
+    "rss_after_mb": 170.78125
+  },
+  {
+    "label": "exact_user_3524",
+    "elapsed_s": 0.007240958000693354,
+    "rss_before_mb": 170.78125,
+    "rss_after_mb": 170.796875
+  },
+  {
+    "label": "popularity_user_3592",
+    "elapsed_s": 0.0022290000015345868,
+    "rss_before_mb": 170.796875,
+    "rss_after_mb": 170.796875
+  },
+  {
+    "label": "exact_user_3592",
+    "elapsed_s": 0.01581212500059337,
+    "rss_before_mb": 170.796875,
+    "rss_after_mb": 170.859375
+  },
+  {
+    "label": "popularity_user_3827",
+    "elapsed_s": 0.0022287499996309634,
+    "rss_before_mb": 170.859375,
+    "rss_after_mb": 170.859375
+  },
+  {
+    "label": "exact_user_3827",
+    "elapsed_s": 0.019230375000915956,
+    "rss_before_mb": 170.859375,
+    "rss_after_mb": 170.859375
+  },
+  {
+    "label": "popularity_user_4059",
+    "elapsed_s": 0.0022559160006494494,
+    "rss_before_mb": 170.859375,
+    "rss_after_mb": 170.859375
+  },
+  {
+    "label": "exact_user_4059",
+    "elapsed_s": 0.0071407499999622814,
+    "rss_before_mb": 170.859375,
+    "rss_after_mb": 170.859375
+  },
+  {
+    "label": "popularity_user_4328",
+    "elapsed_s": 0.0021017919989390066,
+    "rss_before_mb": 170.859375,
+    "rss_after_mb": 170.859375
+  },
+  {
+    "label": "exact_user_4328",
+    "elapsed_s": 0.011292166000202997,
+    "rss_before_mb": 170.859375,
+    "rss_after_mb": 170.859375
+  },
+  {
+    "label": "popularity_user_4395",
+    "elapsed_s": 0.0023854589999245945,
+    "rss_before_mb": 170.859375,
+    "rss_after_mb": 170.875
+  },
+  {
+    "label": "exact_user_4395",
+    "elapsed_s": 0.01089437500013446,
+    "rss_before_mb": 170.875,
+    "rss_after_mb": 170.90625
+  },
+  {
+    "label": "popularity_user_4627",
+    "elapsed_s": 0.0024521670002286555,
+    "rss_before_mb": 170.90625,
+    "rss_after_mb": 170.90625
+  },
+  {
+    "label": "exact_user_4627",
+    "elapsed_s": 0.009524500001134584,
+    "rss_before_mb": 170.90625,
+    "rss_after_mb": 171.015625
+  },
+  {
+    "label": "popularity_user_4641",
+    "elapsed_s": 0.002117583000654122,
+    "rss_before_mb": 171.015625,
+    "rss_after_mb": 171.015625
+  },
+  {
+    "label": "exact_user_4641",
+    "elapsed_s": 0.011279916001512902,
+    "rss_before_mb": 171.015625,
+    "rss_after_mb": 171.015625
+  },
+  {
+    "label": "popularity_user_4789",
+    "elapsed_s": 0.002068791998681263,
+    "rss_before_mb": 171.015625,
+    "rss_after_mb": 171.015625
+  },
+  {
+    "label": "exact_user_4789",
+    "elapsed_s": 0.01476195799841662,
+    "rss_before_mb": 171.015625,
+    "rss_after_mb": 171.015625
+  },
+  {
+    "label": "popularity_user_5117",
+    "elapsed_s": 0.0022954169999138685,
+    "rss_before_mb": 171.015625,
+    "rss_after_mb": 171.015625
+  },
+  {
+    "label": "exact_user_5117",
+    "elapsed_s": 0.011750125000617118,
+    "rss_before_mb": 171.015625,
+    "rss_after_mb": 171.015625
+  },
+  {
+    "label": "popularity_user_5206",
+    "elapsed_s": 0.0020567499996104743,
+    "rss_before_mb": 171.015625,
+    "rss_after_mb": 171.015625
+  },
+  {
+    "label": "exact_user_5206",
+    "elapsed_s": 0.01933900000040012,
+    "rss_before_mb": 171.015625,
+    "rss_after_mb": 171.3125
+  },
+  {
+    "label": "popularity_user_5263",
+    "elapsed_s": 0.0021521250000660075,
+    "rss_before_mb": 171.3125,
+    "rss_after_mb": 171.3125
+  },
+  {
+    "label": "exact_user_5263",
+    "elapsed_s": 0.013539749999836204,
+    "rss_before_mb": 171.3125,
+    "rss_after_mb": 171.3125
+  },
+  {
+    "label": "popularity_user_5693",
+    "elapsed_s": 0.002052124998954241,
+    "rss_before_mb": 171.3125,
+    "rss_after_mb": 171.3125
+  },
+  {
+    "label": "exact_user_5693",
+    "elapsed_s": 0.008206417000110378,
+    "rss_before_mb": 171.3125,
+    "rss_after_mb": 171.3125
+  },
+  {
+    "label": "popularity_user_5821",
+    "elapsed_s": 0.002075624999633874,
+    "rss_before_mb": 171.3125,
+    "rss_after_mb": 171.3125
+  },
+  {
+    "label": "exact_user_5821",
+    "elapsed_s": 0.01552475000062259,
+    "rss_before_mb": 171.3125,
+    "rss_after_mb": 171.34375
+  },
+  {
+    "label": "popularity_user_5971",
+    "elapsed_s": 0.0022250000001804437,
+    "rss_before_mb": 171.34375,
+    "rss_after_mb": 171.34375
+  },
+  {
+    "label": "exact_user_5971",
+    "elapsed_s": 0.008090583000011975,
+    "rss_before_mb": 171.34375,
+    "rss_after_mb": 171.34375
+  },
+  {
+    "label": "popularity_user_6144",
+    "elapsed_s": 0.002399457998762955,
+    "rss_before_mb": 171.34375,
+    "rss_after_mb": 171.34375
+  },
+  {
+    "label": "exact_user_6144",
+    "elapsed_s": 0.012237208000442479,
+    "rss_before_mb": 171.34375,
+    "rss_after_mb": 171.359375
+  },
+  {
+    "label": "popularity_user_6157",
+    "elapsed_s": 0.002229417001217371,
+    "rss_before_mb": 171.359375,
+    "rss_after_mb": 171.359375
+  },
+  {
+    "label": "exact_user_6157",
+    "elapsed_s": 0.014561332998709986,
+    "rss_before_mb": 171.359375,
+    "rss_after_mb": 171.375
+  },
+  {
+    "label": "popularity_user_6884",
+    "elapsed_s": 0.0020464160006667953,
+    "rss_before_mb": 171.375,
+    "rss_after_mb": 171.375
+  },
+  {
+    "label": "exact_user_6884",
+    "elapsed_s": 0.009737375001350301,
+    "rss_before_mb": 171.375,
+    "rss_after_mb": 171.390625
+  },
+  {
+    "label": "popularity_user_7035",
+    "elapsed_s": 0.0021803340005135396,
+    "rss_before_mb": 171.390625,
+    "rss_after_mb": 171.390625
+  },
+  {
+    "label": "exact_user_7035",
+    "elapsed_s": 0.006714415998430923,
+    "rss_before_mb": 171.390625,
+    "rss_after_mb": 171.390625
+  },
+  {
+    "label": "popularity_user_7303",
+    "elapsed_s": 0.0022565409999515396,
+    "rss_before_mb": 171.390625,
+    "rss_after_mb": 171.390625
+  },
+  {
+    "label": "exact_user_7303",
+    "elapsed_s": 0.010576249998848652,
+    "rss_before_mb": 171.390625,
+    "rss_after_mb": 171.390625
+  },
+  {
+    "label": "popularity_user_7902",
+    "elapsed_s": 0.002509500000087428,
+    "rss_before_mb": 171.390625,
+    "rss_after_mb": 171.390625
+  },
+  {
+    "label": "exact_user_7902",
+    "elapsed_s": 0.004827875000046333,
+    "rss_before_mb": 171.390625,
+    "rss_after_mb": 171.390625
+  },
+  {
+    "label": "popularity_user_8023",
+    "elapsed_s": 0.002112457999828621,
+    "rss_before_mb": 171.390625,
+    "rss_after_mb": 171.390625
+  },
+  {
+    "label": "exact_user_8023",
+    "elapsed_s": 0.006918959001268377,
+    "rss_before_mb": 171.390625,
+    "rss_after_mb": 171.390625
+  },
+  {
+    "label": "popularity_user_8526",
+    "elapsed_s": 0.0024546249987906776,
+    "rss_before_mb": 171.390625,
+    "rss_after_mb": 171.390625
+  },
+  {
+    "label": "exact_user_8526",
+    "elapsed_s": 0.01025645799927588,
+    "rss_before_mb": 171.390625,
+    "rss_after_mb": 171.40625
+  },
+  {
+    "label": "popularity_user_8978",
+    "elapsed_s": 0.002209832999142236,
+    "rss_before_mb": 171.40625,
+    "rss_after_mb": 171.40625
+  },
+  {
+    "label": "exact_user_8978",
+    "elapsed_s": 0.0035755419994529802,
+    "rss_before_mb": 171.40625,
+    "rss_after_mb": 171.40625
+  },
+  {
+    "label": "popularity_user_9094",
+    "elapsed_s": 0.0022120419998827856,
+    "rss_before_mb": 171.40625,
+    "rss_after_mb": 171.40625
+  },
+  {
+    "label": "exact_user_9094",
+    "elapsed_s": 0.02300041600028635,
+    "rss_before_mb": 171.40625,
+    "rss_after_mb": 171.515625
+  },
+  {
+    "label": "popularity_user_9227",
+    "elapsed_s": 0.0021578750001935987,
+    "rss_before_mb": 171.515625,
+    "rss_after_mb": 171.515625
+  },
+  {
+    "label": "exact_user_9227",
+    "elapsed_s": 0.008775457999945502,
+    "rss_before_mb": 171.515625,
+    "rss_after_mb": 171.515625
+  },
+  {
+    "label": "popularity_user_9381",
+    "elapsed_s": 0.002247791999252513,
+    "rss_before_mb": 171.515625,
+    "rss_after_mb": 171.515625
+  },
+  {
+    "label": "exact_user_9381",
+    "elapsed_s": 0.005572999998548767,
+    "rss_before_mb": 171.515625,
+    "rss_after_mb": 171.515625
+  },
+  {
+    "label": "popularity_user_9426",
+    "elapsed_s": 0.0023463750003429595,
+    "rss_before_mb": 171.515625,
+    "rss_after_mb": 171.515625
+  },
+  {
+    "label": "exact_user_9426",
+    "elapsed_s": 0.005133374999786611,
+    "rss_before_mb": 171.515625,
+    "rss_after_mb": 171.515625
+  },
+  {
+    "label": "popularity_user_9627",
+    "elapsed_s": 0.00243541700001515,
+    "rss_before_mb": 171.515625,
+    "rss_after_mb": 171.515625
+  },
+  {
+    "label": "exact_user_9627",
+    "elapsed_s": 0.011446917000284884,
+    "rss_before_mb": 171.515625,
+    "rss_after_mb": 173.625
+  },
+  {
+    "label": "popularity_user_10207",
+    "elapsed_s": 0.0024587500010966323,
+    "rss_before_mb": 173.625,
+    "rss_after_mb": 173.625
+  },
+  {
+    "label": "exact_user_10207",
+    "elapsed_s": 0.00977204199989501,
+    "rss_before_mb": 173.625,
+    "rss_after_mb": 173.625
+  },
+  {
+    "label": "popularity_user_11002",
+    "elapsed_s": 0.0025503329998173285,
+    "rss_before_mb": 173.625,
+    "rss_after_mb": 173.625
+  },
+  {
+    "label": "exact_user_11002",
+    "elapsed_s": 0.002929666999989422,
+    "rss_before_mb": 173.625,
+    "rss_after_mb": 173.625
+  },
+  {
+    "label": "popularity_user_11051",
+    "elapsed_s": 0.002308249999259715,
+    "rss_before_mb": 173.625,
+    "rss_after_mb": 173.625
+  },
+  {
+    "label": "exact_user_11051",
+    "elapsed_s": 0.005625750000035623,
+    "rss_before_mb": 173.625,
+    "rss_after_mb": 173.625
+  },
+  {
+    "label": "popularity_user_11119",
+    "elapsed_s": 0.0024533750001864973,
+    "rss_before_mb": 173.625,
+    "rss_after_mb": 173.625
+  },
+  {
+    "label": "exact_user_11119",
+    "elapsed_s": 0.010668000000805478,
+    "rss_before_mb": 173.625,
+    "rss_after_mb": 173.625
+  },
+  {
+    "label": "popularity_user_11353",
+    "elapsed_s": 0.0021611249994748505,
+    "rss_before_mb": 173.625,
+    "rss_after_mb": 173.625
+  },
+  {
+    "label": "exact_user_11353",
+    "elapsed_s": 0.005831583999679424,
+    "rss_before_mb": 173.625,
+    "rss_after_mb": 173.625
+  },
+  {
+    "label": "popularity_user_11571",
+    "elapsed_s": 0.002419624999674852,
+    "rss_before_mb": 173.625,
+    "rss_after_mb": 173.625
+  },
+  {
+    "label": "exact_user_11571",
+    "elapsed_s": 0.015238207999573206,
+    "rss_before_mb": 173.625,
+    "rss_after_mb": 173.65625
+  },
+  {
+    "label": "popularity_user_11731",
+    "elapsed_s": 0.0020161249994998798,
+    "rss_before_mb": 173.65625,
+    "rss_after_mb": 173.65625
+  },
+  {
+    "label": "exact_user_11731",
+    "elapsed_s": 0.006331791000775411,
+    "rss_before_mb": 173.65625,
+    "rss_after_mb": 173.65625
+  },
+  {
+    "label": "popularity_user_11810",
+    "elapsed_s": 0.002395041999989189,
+    "rss_before_mb": 173.65625,
+    "rss_after_mb": 173.65625
+  },
+  {
+    "label": "exact_user_11810",
+    "elapsed_s": 0.006008584001392592,
+    "rss_before_mb": 173.65625,
+    "rss_after_mb": 173.65625
+  },
+  {
+    "label": "popularity_user_11880",
+    "elapsed_s": 0.0021984579998388654,
+    "rss_before_mb": 173.65625,
+    "rss_after_mb": 173.65625
+  },
+  {
+    "label": "exact_user_11880",
+    "elapsed_s": 0.00931483299973479,
+    "rss_before_mb": 173.65625,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_12032",
+    "elapsed_s": 0.0025310419987363275,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_12032",
+    "elapsed_s": 0.005184249999729218,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_12123",
+    "elapsed_s": 0.00207441599923186,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_12123",
+    "elapsed_s": 0.00339387500025623,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_12171",
+    "elapsed_s": 0.0021935420008958317,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_12171",
+    "elapsed_s": 0.006140540999695077,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_12361",
+    "elapsed_s": 0.0020879169987892965,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_12361",
+    "elapsed_s": 0.0008791250002104789,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_12938",
+    "elapsed_s": 0.0023022919995128177,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_12938",
+    "elapsed_s": 0.006310249998932704,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_13991",
+    "elapsed_s": 0.0025095829987549223,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_13991",
+    "elapsed_s": 0.008114250000289758,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_14175",
+    "elapsed_s": 0.0024384999996982515,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_14175",
+    "elapsed_s": 0.007915166999737266,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_14405",
+    "elapsed_s": 0.0024738749998505227,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_14405",
+    "elapsed_s": 0.004911082998660277,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_14426",
+    "elapsed_s": 0.002268624999487656,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_14426",
+    "elapsed_s": 0.003104665998762357,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_14648",
+    "elapsed_s": 0.002478915999745368,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_14648",
+    "elapsed_s": 0.003899291999914567,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_15320",
+    "elapsed_s": 0.002336749999813037,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_15320",
+    "elapsed_s": 0.00271858400083147,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_15557",
+    "elapsed_s": 0.0024248749996331753,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_15557",
+    "elapsed_s": 0.007026708999546827,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_15608",
+    "elapsed_s": 0.002233707999039325,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_15608",
+    "elapsed_s": 0.00822725000034552,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_15795",
+    "elapsed_s": 0.002387667000220972,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_15795",
+    "elapsed_s": 0.009122416999161942,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_15818",
+    "elapsed_s": 0.002127457999449689,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_15818",
+    "elapsed_s": 0.0020338329995865934,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_15831",
+    "elapsed_s": 0.0024361249998037238,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_15831",
+    "elapsed_s": 0.002821125000991742,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_16464",
+    "elapsed_s": 0.0023590000000695,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_16464",
+    "elapsed_s": 0.00515004100088845,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_16551",
+    "elapsed_s": 0.002651624999998603,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_16551",
+    "elapsed_s": 0.0030906249994586688,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_16828",
+    "elapsed_s": 0.0023947919999045553,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_16828",
+    "elapsed_s": 0.005484416999024688,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_17053",
+    "elapsed_s": 0.002161083000828512,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_17053",
+    "elapsed_s": 0.0007585000003018649,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_17558",
+    "elapsed_s": 0.0021432909998111427,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_17558",
+    "elapsed_s": 0.006199833998834947,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_17719",
+    "elapsed_s": 0.0021686250001948792,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_17719",
+    "elapsed_s": 0.0018225839994556736,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "popularity_user_17914",
+    "elapsed_s": 0.002109958000801271,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.671875
+  },
+  {
+    "label": "exact_user_17914",
+    "elapsed_s": 0.004247791999659967,
+    "rss_before_mb": 173.671875,
+    "rss_after_mb": 173.796875
+  },
+  {
+    "label": "popularity_user_17940",
+    "elapsed_s": 0.002335332999791717,
+    "rss_before_mb": 173.796875,
+    "rss_after_mb": 173.796875
+  },
+  {
+    "label": "exact_user_17940",
+    "elapsed_s": 0.002526083999327966,
+    "rss_before_mb": 173.796875,
+    "rss_after_mb": 173.796875
+  },
+  {
+    "label": "popularity_user_18056",
+    "elapsed_s": 0.002178374999857624,
+    "rss_before_mb": 173.796875,
+    "rss_after_mb": 173.796875
+  },
+  {
+    "label": "exact_user_18056",
+    "elapsed_s": 0.002481207999153412,
+    "rss_before_mb": 173.796875,
+    "rss_after_mb": 173.796875
+  },
+  {
+    "label": "popularity_user_18105",
+    "elapsed_s": 0.002051792000202113,
+    "rss_before_mb": 173.796875,
+    "rss_after_mb": 173.796875
+  },
+  {
+    "label": "exact_user_18105",
+    "elapsed_s": 0.00475962500058813,
+    "rss_before_mb": 173.796875,
+    "rss_after_mb": 173.796875
+  },
+  {
+    "label": "popularity_user_19093",
+    "elapsed_s": 0.0020915000004606554,
+    "rss_before_mb": 173.796875,
+    "rss_after_mb": 173.796875
+  },
+  {
+    "label": "exact_user_19093",
+    "elapsed_s": 0.0030759580004087184,
+    "rss_before_mb": 173.796875,
+    "rss_after_mb": 173.796875
+  },
+  {
+    "label": "popularity_user_19462",
+    "elapsed_s": 0.0023902920002001338,
+    "rss_before_mb": 173.796875,
+    "rss_after_mb": 173.796875
+  },
+  {
+    "label": "exact_user_19462",
+    "elapsed_s": 0.003721040999153047,
+    "rss_before_mb": 173.796875,
+    "rss_after_mb": 173.796875
+  },
+  {
+    "label": "popularity_user_19902",
+    "elapsed_s": 0.0025736669995239936,
+    "rss_before_mb": 173.796875,
+    "rss_after_mb": 173.796875
+  },
+  {
+    "label": "exact_user_19902",
+    "elapsed_s": 0.005777292000857415,
+    "rss_before_mb": 173.796875,
+    "rss_after_mb": 173.8125
+  },
+  {
+    "label": "popularity_user_19954",
+    "elapsed_s": 0.002068124998913845,
+    "rss_before_mb": 173.8125,
+    "rss_after_mb": 173.8125
+  },
+  {
+    "label": "exact_user_19954",
+    "elapsed_s": 0.008012624999537366,
+    "rss_before_mb": 173.8125,
+    "rss_after_mb": 173.8125
+  },
+  {
+    "label": "popularity_user_20750",
+    "elapsed_s": 0.0028327500003797468,
+    "rss_before_mb": 173.8125,
+    "rss_after_mb": 173.8125
+  },
+  {
+    "label": "exact_user_20750",
+    "elapsed_s": 0.003757583999686176,
+    "rss_before_mb": 173.8125,
+    "rss_after_mb": 173.8125
+  },
+  {
+    "label": "popularity_user_20930",
+    "elapsed_s": 0.002126542000041809,
+    "rss_before_mb": 173.8125,
+    "rss_after_mb": 173.8125
+  },
+  {
+    "label": "exact_user_20930",
+    "elapsed_s": 0.004612250000718632,
+    "rss_before_mb": 173.8125,
+    "rss_after_mb": 173.828125
+  },
+  {
+    "label": "popularity_user_21014",
+    "elapsed_s": 0.0023270829988177866,
+    "rss_before_mb": 173.828125,
+    "rss_after_mb": 173.828125
+  },
+  {
+    "label": "exact_user_21014",
+    "elapsed_s": 0.0035872089993063128,
+    "rss_before_mb": 173.828125,
+    "rss_after_mb": 173.828125
+  },
+  {
+    "label": "popularity_user_21540",
+    "elapsed_s": 0.002322374999494059,
+    "rss_before_mb": 173.828125,
+    "rss_after_mb": 173.828125
+  },
+  {
+    "label": "exact_user_21540",
+    "elapsed_s": 0.006013416999849142,
+    "rss_before_mb": 173.828125,
+    "rss_after_mb": 173.828125
+  },
+  {
+    "label": "popularity_user_21631",
+    "elapsed_s": 0.0022030000000086147,
+    "rss_before_mb": 173.828125,
+    "rss_after_mb": 173.828125
+  },
+  {
+    "label": "exact_user_21631",
+    "elapsed_s": 0.004845040999498451,
+    "rss_before_mb": 173.828125,
+    "rss_after_mb": 173.828125
+  },
+  {
+    "label": "popularity_user_22100",
+    "elapsed_s": 0.002261290999740595,
+    "rss_before_mb": 173.828125,
+    "rss_after_mb": 173.828125
+  },
+  {
+    "label": "exact_user_22100",
+    "elapsed_s": 0.004290167000362999,
+    "rss_before_mb": 173.828125,
+    "rss_after_mb": 173.828125
+  },
+  {
+    "label": "popularity_user_22291",
+    "elapsed_s": 0.002410625000266009,
+    "rss_before_mb": 173.828125,
+    "rss_after_mb": 173.828125
+  },
+  {
+    "label": "exact_user_22291",
+    "elapsed_s": 0.005511875000593136,
+    "rss_before_mb": 173.828125,
+    "rss_after_mb": 173.84375
+  },
+  {
+    "label": "popularity_user_22652",
+    "elapsed_s": 0.002136291001079371,
+    "rss_before_mb": 173.84375,
+    "rss_after_mb": 173.84375
+  },
+  {
+    "label": "exact_user_22652",
+    "elapsed_s": 0.005879542000911897,
+    "rss_before_mb": 173.84375,
+    "rss_after_mb": 173.859375
+  },
+  {
+    "label": "popularity_user_23001",
+    "elapsed_s": 0.0021744170007877983,
+    "rss_before_mb": 173.859375,
+    "rss_after_mb": 173.859375
+  },
+  {
+    "label": "exact_user_23001",
+    "elapsed_s": 0.006975999998758198,
+    "rss_before_mb": 173.859375,
+    "rss_after_mb": 174.0
+  },
+  {
+    "label": "popularity_user_23037",
+    "elapsed_s": 0.002059124999505002,
+    "rss_before_mb": 174.0,
+    "rss_after_mb": 174.0
+  },
+  {
+    "label": "exact_user_23037",
+    "elapsed_s": 0.0035762500010605436,
+    "rss_before_mb": 174.0,
+    "rss_after_mb": 174.0
+  },
+  {
+    "label": "popularity_user_23410",
+    "elapsed_s": 0.0022125830000732094,
+    "rss_before_mb": 174.0,
+    "rss_after_mb": 174.0
+  },
+  {
+    "label": "exact_user_23410",
+    "elapsed_s": 0.006516958999782219,
+    "rss_before_mb": 174.0,
+    "rss_after_mb": 174.0
+  },
+  {
+    "label": "popularity_user_23885",
+    "elapsed_s": 0.0024299169999721926,
+    "rss_before_mb": 174.0,
+    "rss_after_mb": 174.0
+  },
+  {
+    "label": "exact_user_23885",
+    "elapsed_s": 0.0024691250000614673,
+    "rss_before_mb": 174.0,
+    "rss_after_mb": 174.0
+  },
+  {
+    "label": "popularity_user_24059",
+    "elapsed_s": 0.002555041999585228,
+    "rss_before_mb": 174.0,
+    "rss_after_mb": 174.0
+  },
+  {
+    "label": "exact_user_24059",
+    "elapsed_s": 0.0027895420007553184,
+    "rss_before_mb": 174.0,
+    "rss_after_mb": 174.0
+  },
+  {
+    "label": "popularity_user_24218",
+    "elapsed_s": 0.0022552500013262033,
+    "rss_before_mb": 174.0,
+    "rss_after_mb": 174.0
+  },
+  {
+    "label": "exact_user_24218",
+    "elapsed_s": 0.003268832999310689,
+    "rss_before_mb": 174.0,
+    "rss_after_mb": 174.0
+  },
+  {
+    "label": "popularity_user_24295",
+    "elapsed_s": 0.0022212909989320906,
+    "rss_before_mb": 174.0,
+    "rss_after_mb": 174.0
+  },
+  {
+    "label": "exact_user_24295",
+    "elapsed_s": 0.004739584001072217,
+    "rss_before_mb": 174.0,
+    "rss_after_mb": 174.015625
+  },
+  {
+    "label": "popularity_user_24587",
+    "elapsed_s": 0.0020922090006934013,
+    "rss_before_mb": 174.015625,
+    "rss_after_mb": 174.015625
+  },
+  {
+    "label": "exact_user_24587",
+    "elapsed_s": 0.0036019580002175644,
+    "rss_before_mb": 174.015625,
+    "rss_after_mb": 174.015625
+  },
+  {
+    "label": "popularity_user_24686",
+    "elapsed_s": 0.0024248749996331753,
+    "rss_before_mb": 174.015625,
+    "rss_after_mb": 174.015625
+  },
+  {
+    "label": "exact_user_24686",
+    "elapsed_s": 0.004157291999945301,
+    "rss_before_mb": 174.015625,
+    "rss_after_mb": 174.015625
+  },
+  {
+    "label": "popularity_user_25067",
+    "elapsed_s": 0.0024147910007741302,
+    "rss_before_mb": 174.015625,
+    "rss_after_mb": 174.015625
+  },
+  {
+    "label": "exact_user_25067",
+    "elapsed_s": 0.0025374169999849983,
+    "rss_before_mb": 174.015625,
+    "rss_after_mb": 174.015625
+  },
+  {
+    "label": "popularity_user_25715",
+    "elapsed_s": 0.0022403330003726296,
+    "rss_before_mb": 174.015625,
+    "rss_after_mb": 174.015625
+  },
+  {
+    "label": "exact_user_25715",
+    "elapsed_s": 0.009924125000907225,
+    "rss_before_mb": 174.015625,
+    "rss_after_mb": 174.09375
+  },
+  {
+    "label": "popularity_user_26030",
+    "elapsed_s": 0.0022559999997611158,
+    "rss_before_mb": 174.09375,
+    "rss_after_mb": 174.09375
+  },
+  {
+    "label": "exact_user_26030",
+    "elapsed_s": 0.004027999999379972,
+    "rss_before_mb": 174.09375,
+    "rss_after_mb": 174.09375
+  },
+  {
+    "label": "popularity_user_26082",
+    "elapsed_s": 0.0022620830004598247,
+    "rss_before_mb": 174.09375,
+    "rss_after_mb": 174.09375
+  },
+  {
+    "label": "exact_user_26082",
+    "elapsed_s": 0.0078597500014439,
+    "rss_before_mb": 174.09375,
+    "rss_after_mb": 174.09375
+  },
+  {
+    "label": "popularity_user_26269",
+    "elapsed_s": 0.0021004999998694984,
+    "rss_before_mb": 174.09375,
+    "rss_after_mb": 174.09375
+  },
+  {
+    "label": "exact_user_26269",
+    "elapsed_s": 0.0004900410003756406,
+    "rss_before_mb": 174.09375,
+    "rss_after_mb": 174.09375
+  },
+  {
+    "label": "popularity_user_26473",
+    "elapsed_s": 0.0025562920000083977,
+    "rss_before_mb": 174.09375,
+    "rss_after_mb": 174.09375
+  },
+  {
+    "label": "exact_user_26473",
+    "elapsed_s": 0.003978708999056835,
+    "rss_before_mb": 174.09375,
+    "rss_after_mb": 174.09375
+  },
+  {
+    "label": "popularity_user_26517",
+    "elapsed_s": 0.002725958000155515,
+    "rss_before_mb": 174.09375,
+    "rss_after_mb": 174.09375
+  },
+  {
+    "label": "exact_user_26517",
+    "elapsed_s": 0.0037098339998919982,
+    "rss_before_mb": 174.09375,
+    "rss_after_mb": 174.09375
+  },
+  {
+    "label": "popularity_user_26530",
+    "elapsed_s": 0.0024205830013670493,
+    "rss_before_mb": 174.09375,
+    "rss_after_mb": 174.09375
+  },
+  {
+    "label": "exact_user_26530",
+    "elapsed_s": 0.0071110839999164455,
+    "rss_before_mb": 174.09375,
+    "rss_after_mb": 174.15625
+  },
+  {
+    "label": "popularity_user_26706",
+    "elapsed_s": 0.0023404170005960623,
+    "rss_before_mb": 174.15625,
+    "rss_after_mb": 174.15625
+  },
+  {
+    "label": "exact_user_26706",
+    "elapsed_s": 0.0007860839996283175,
+    "rss_before_mb": 174.15625,
+    "rss_after_mb": 174.15625
+  },
+  {
+    "label": "popularity_user_26747",
+    "elapsed_s": 0.0023530420003226027,
+    "rss_before_mb": 174.15625,
+    "rss_after_mb": 174.15625
+  },
+  {
+    "label": "exact_user_26747",
+    "elapsed_s": 0.004204792001473834,
+    "rss_before_mb": 174.15625,
+    "rss_after_mb": 174.15625
+  },
+  {
+    "label": "popularity_user_26781",
+    "elapsed_s": 0.0025265830008720513,
+    "rss_before_mb": 174.15625,
+    "rss_after_mb": 174.15625
+  },
+  {
+    "label": "exact_user_26781",
+    "elapsed_s": 0.004691124999226304,
+    "rss_before_mb": 174.15625,
+    "rss_after_mb": 174.15625
+  },
+  {
+    "label": "popularity_user_26868",
+    "elapsed_s": 0.0024076669997157296,
+    "rss_before_mb": 174.15625,
+    "rss_after_mb": 174.15625
+  },
+  {
+    "label": "exact_user_26868",
+    "elapsed_s": 0.003306332999272854,
+    "rss_before_mb": 174.15625,
+    "rss_after_mb": 174.296875
+  },
+  {
+    "label": "popularity_user_26927",
+    "elapsed_s": 0.0022205829991435166,
+    "rss_before_mb": 174.296875,
+    "rss_after_mb": 174.296875
+  },
+  {
+    "label": "exact_user_26927",
+    "elapsed_s": 0.0021680419995391276,
+    "rss_before_mb": 174.296875,
+    "rss_after_mb": 174.3125
+  },
+  {
+    "label": "popularity_user_27039",
+    "elapsed_s": 0.002065208000203711,
+    "rss_before_mb": 174.3125,
+    "rss_after_mb": 174.3125
+  },
+  {
+    "label": "exact_user_27039",
+    "elapsed_s": 0.0022934999997232808,
+    "rss_before_mb": 174.3125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "popularity_user_27315",
+    "elapsed_s": 0.002474499999152613,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "exact_user_27315",
+    "elapsed_s": 0.004781542000273475,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "popularity_user_27559",
+    "elapsed_s": 0.002289583000674611,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "exact_user_27559",
+    "elapsed_s": 0.009437832999537932,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "popularity_user_27732",
+    "elapsed_s": 0.00219137500062061,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "exact_user_27732",
+    "elapsed_s": 0.003294791000371333,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "popularity_user_27954",
+    "elapsed_s": 0.0023241250000864966,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "exact_user_27954",
+    "elapsed_s": 0.0007797919988661306,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "popularity_user_28087",
+    "elapsed_s": 0.0023114579998946283,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "exact_user_28087",
+    "elapsed_s": 0.0008027919993764954,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "popularity_user_28202",
+    "elapsed_s": 0.0026524160002736608,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "exact_user_28202",
+    "elapsed_s": 0.0040573750011390075,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "popularity_user_28437",
+    "elapsed_s": 0.0023997080006665783,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "exact_user_28437",
+    "elapsed_s": 0.001130166001530597,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "popularity_user_28660",
+    "elapsed_s": 0.002632207999340608,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 174.328125
+  },
+  {
+    "label": "exact_user_28660",
+    "elapsed_s": 0.025180082999213482,
+    "rss_before_mb": 174.328125,
+    "rss_after_mb": 177.203125
+  },
+  {
+    "label": "popularity_user_29003",
+    "elapsed_s": 0.002591958000266459,
+    "rss_before_mb": 177.203125,
+    "rss_after_mb": 177.203125
+  },
+  {
+    "label": "exact_user_29003",
+    "elapsed_s": 0.010706708999350667,
+    "rss_before_mb": 177.203125,
+    "rss_after_mb": 177.21875
+  },
+  {
+    "label": "popularity_user_29112",
+    "elapsed_s": 0.005196000000069034,
+    "rss_before_mb": 177.21875,
+    "rss_after_mb": 184.96875
+  },
+  {
+    "label": "exact_user_29112",
+    "elapsed_s": 0.0037435829999594716,
+    "rss_before_mb": 184.96875,
+    "rss_after_mb": 184.96875
+  },
+  {
+    "label": "popularity_user_29194",
+    "elapsed_s": 0.0021065000000817236,
+    "rss_before_mb": 184.96875,
+    "rss_after_mb": 184.984375
+  },
+  {
+    "label": "exact_user_29194",
+    "elapsed_s": 0.0043976670003758045,
+    "rss_before_mb": 184.984375,
+    "rss_after_mb": 185.046875
+  },
+  {
+    "label": "popularity_user_29525",
+    "elapsed_s": 0.0021796249984618044,
+    "rss_before_mb": 185.046875,
+    "rss_after_mb": 185.046875
+  },
+  {
+    "label": "exact_user_29525",
+    "elapsed_s": 0.0007329580002988223,
+    "rss_before_mb": 185.046875,
+    "rss_after_mb": 185.046875
+  },
+  {
+    "label": "popularity_user_29769",
+    "elapsed_s": 0.0020162910004728474,
+    "rss_before_mb": 185.046875,
+    "rss_after_mb": 185.046875
+  },
+  {
+    "label": "exact_user_29769",
+    "elapsed_s": 0.002508958999897004,
+    "rss_before_mb": 185.046875,
+    "rss_after_mb": 185.046875
+  },
+  {
+    "label": "popularity_user_29835",
+    "elapsed_s": 0.0021234590003587073,
+    "rss_before_mb": 185.046875,
+    "rss_after_mb": 185.046875
+  },
+  {
+    "label": "exact_user_29835",
+    "elapsed_s": 0.004311292001148104,
+    "rss_before_mb": 185.046875,
+    "rss_after_mb": 185.046875
+  },
+  {
+    "label": "popularity_user_30081",
+    "elapsed_s": 0.002401125000687898,
+    "rss_before_mb": 185.046875,
+    "rss_after_mb": 185.046875
+  },
+  {
+    "label": "exact_user_30081",
+    "elapsed_s": 0.002817624999806867,
+    "rss_before_mb": 185.046875,
+    "rss_after_mb": 185.046875
+  },
+  {
+    "label": "popularity_user_30183",
+    "elapsed_s": 0.002520082998671569,
+    "rss_before_mb": 185.046875,
+    "rss_after_mb": 185.046875
+  },
+  {
+    "label": "exact_user_30183",
+    "elapsed_s": 0.0007521669995185221,
+    "rss_before_mb": 185.046875,
+    "rss_after_mb": 185.046875
+  },
+  {
+    "label": "popularity_user_30199",
+    "elapsed_s": 0.0022527909986820305,
+    "rss_before_mb": 185.046875,
+    "rss_after_mb": 185.046875
+  },
+  {
+    "label": "exact_user_30199",
+    "elapsed_s": 0.00166745800015633,
+    "rss_before_mb": 185.046875,
+    "rss_after_mb": 185.046875
+  },
+  {
+    "label": "popularity_user_30308",
+    "elapsed_s": 0.00226933299927623,
+    "rss_before_mb": 185.046875,
+    "rss_after_mb": 185.046875
+  },
+  {
+    "label": "exact_user_30308",
+    "elapsed_s": 0.005947916999502922,
+    "rss_before_mb": 185.046875,
+    "rss_after_mb": 185.296875
+  },
+  {
+    "label": "popularity_user_30324",
+    "elapsed_s": 0.0022735000002285233,
+    "rss_before_mb": 185.296875,
+    "rss_after_mb": 185.296875
+  },
+  {
+    "label": "exact_user_30324",
+    "elapsed_s": 0.006367291998685687,
+    "rss_before_mb": 185.296875,
+    "rss_after_mb": 185.296875
+  },
+  {
+    "label": "popularity_user_30531",
+    "elapsed_s": 0.0022808329995314125,
+    "rss_before_mb": 185.296875,
+    "rss_after_mb": 185.296875
+  },
+  {
+    "label": "exact_user_30531",
+    "elapsed_s": 0.004652790999898571,
+    "rss_before_mb": 185.296875,
+    "rss_after_mb": 185.296875
+  },
+  {
+    "label": "popularity_user_30575",
+    "elapsed_s": 0.0023987080003280425,
+    "rss_before_mb": 185.296875,
+    "rss_after_mb": 185.296875
+  },
+  {
+    "label": "exact_user_30575",
+    "elapsed_s": 0.0009142499984591268,
+    "rss_before_mb": 185.296875,
+    "rss_after_mb": 185.296875
+  },
+  {
+    "label": "popularity_user_30670",
+    "elapsed_s": 0.0023957080011314247,
+    "rss_before_mb": 185.296875,
+    "rss_after_mb": 185.296875
+  },
+  {
+    "label": "exact_user_30670",
+    "elapsed_s": 0.009611208999558585,
+    "rss_before_mb": 185.296875,
+    "rss_after_mb": 185.296875
+  },
+  {
+    "label": "popularity_user_31059",
+    "elapsed_s": 0.0021451249995152466,
+    "rss_before_mb": 185.296875,
+    "rss_after_mb": 185.296875
+  },
+  {
+    "label": "exact_user_31059",
+    "elapsed_s": 0.002124959000866511,
+    "rss_before_mb": 185.296875,
+    "rss_after_mb": 185.296875
+  },
+  {
+    "label": "popularity_user_31262",
+    "elapsed_s": 0.0021800829999847338,
+    "rss_before_mb": 185.296875,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_31262",
+    "elapsed_s": 0.001571124999827589,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "popularity_user_31571",
+    "elapsed_s": 0.00201674999880197,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_31571",
+    "elapsed_s": 0.003696042000228772,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "popularity_user_31974",
+    "elapsed_s": 0.0023791669991624076,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_31974",
+    "elapsed_s": 0.005642875001285574,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "popularity_user_32232",
+    "elapsed_s": 0.002241708001747611,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_32232",
+    "elapsed_s": 0.0047145829994406085,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "popularity_user_32496",
+    "elapsed_s": 0.0022409590001188917,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_32496",
+    "elapsed_s": 0.008348583000042709,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "popularity_user_32549",
+    "elapsed_s": 0.002420333999907598,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_32549",
+    "elapsed_s": 0.0053865420013607945,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "popularity_user_32763",
+    "elapsed_s": 0.002115209001203766,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_32763",
+    "elapsed_s": 0.005342915999790421,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "popularity_user_33840",
+    "elapsed_s": 0.002155292000679765,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_33840",
+    "elapsed_s": 0.0031777910007804167,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "popularity_user_33912",
+    "elapsed_s": 0.0024452920006297063,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_33912",
+    "elapsed_s": 0.003048041000511148,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "popularity_user_33934",
+    "elapsed_s": 0.0022208329992281506,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_33934",
+    "elapsed_s": 0.005967082999632112,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "popularity_user_34070",
+    "elapsed_s": 0.0025838749988906784,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_34070",
+    "elapsed_s": 0.001817874999687774,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "popularity_user_34301",
+    "elapsed_s": 0.0024459169999317965,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_34301",
+    "elapsed_s": 0.004187958000329672,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "popularity_user_34464",
+    "elapsed_s": 0.002343000000109896,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_34464",
+    "elapsed_s": 0.004081041999597801,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "popularity_user_35732",
+    "elapsed_s": 0.0025410420003026957,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_35732",
+    "elapsed_s": 0.0028743749990098877,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "popularity_user_35752",
+    "elapsed_s": 0.0024528750000172295,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_35752",
+    "elapsed_s": 0.00030766699819650967,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "popularity_user_35843",
+    "elapsed_s": 0.002163375000236556,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.3125
+  },
+  {
+    "label": "exact_user_35843",
+    "elapsed_s": 0.0024382920000789454,
+    "rss_before_mb": 185.3125,
+    "rss_after_mb": 185.328125
+  },
+  {
+    "label": "popularity_user_35948",
+    "elapsed_s": 0.002586458998848684,
+    "rss_before_mb": 185.328125,
+    "rss_after_mb": 185.328125
+  },
+  {
+    "label": "exact_user_35948",
+    "elapsed_s": 0.0027375829995435197,
+    "rss_before_mb": 185.328125,
+    "rss_after_mb": 185.328125
+  },
+  {
+    "label": "popularity_user_37321",
+    "elapsed_s": 0.002352958999836119,
+    "rss_before_mb": 185.328125,
+    "rss_after_mb": 185.328125
+  },
+  {
+    "label": "exact_user_37321",
+    "elapsed_s": 0.00026074999914271757,
+    "rss_before_mb": 185.328125,
+    "rss_after_mb": 185.328125
+  },
+  {
+    "label": "popularity_user_38341",
+    "elapsed_s": 0.0021798340003442718,
+    "rss_before_mb": 185.328125,
+    "rss_after_mb": 185.328125
+  },
+  {
+    "label": "exact_user_38341",
+    "elapsed_s": 0.004862708001382998,
+    "rss_before_mb": 185.328125,
+    "rss_after_mb": 185.34375
+  },
+  {
+    "label": "popularity_user_38813",
+    "elapsed_s": 0.0024151249999704305,
+    "rss_before_mb": 185.34375,
+    "rss_after_mb": 185.34375
+  },
+  {
+    "label": "exact_user_38813",
+    "elapsed_s": 0.002561125000283937,
+    "rss_before_mb": 185.34375,
+    "rss_after_mb": 185.34375
+  },
+  {
+    "label": "popularity_user_39005",
+    "elapsed_s": 0.002305042000443791,
+    "rss_before_mb": 185.34375,
+    "rss_after_mb": 185.34375
+  },
+  {
+    "label": "exact_user_39005",
+    "elapsed_s": 0.0013529169991670642,
+    "rss_before_mb": 185.34375,
+    "rss_after_mb": 185.34375
+  },
+  {
+    "label": "popularity_user_39140",
+    "elapsed_s": 0.0022074169992265524,
+    "rss_before_mb": 185.34375,
+    "rss_after_mb": 185.34375
+  },
+  {
+    "label": "exact_user_39140",
+    "elapsed_s": 0.0019759169990720693,
+    "rss_before_mb": 185.34375,
+    "rss_after_mb": 185.34375
+  },
+  {
+    "label": "popularity_user_39232",
+    "elapsed_s": 0.002273291998790228,
+    "rss_before_mb": 185.34375,
+    "rss_after_mb": 185.359375
+  },
+  {
+    "label": "exact_user_39232",
+    "elapsed_s": 0.003059374999793363,
+    "rss_before_mb": 185.359375,
+    "rss_after_mb": 185.40625
+  },
+  {
+    "label": "popularity_user_40190",
+    "elapsed_s": 0.002464625000357046,
+    "rss_before_mb": 185.40625,
+    "rss_after_mb": 185.40625
+  },
+  {
+    "label": "exact_user_40190",
+    "elapsed_s": 0.001043750000462751,
+    "rss_before_mb": 185.40625,
+    "rss_after_mb": 185.40625
+  },
+  {
+    "label": "popularity_user_40918",
+    "elapsed_s": 0.002099500001349952,
+    "rss_before_mb": 185.40625,
+    "rss_after_mb": 185.40625
+  },
+  {
+    "label": "exact_user_40918",
+    "elapsed_s": 0.0008998749999591382,
+    "rss_before_mb": 185.40625,
+    "rss_after_mb": 185.40625
+  },
+  {
+    "label": "popularity_user_40931",
+    "elapsed_s": 0.0020028330000059213,
+    "rss_before_mb": 185.40625,
+    "rss_after_mb": 185.40625
+  },
+  {
+    "label": "exact_user_40931",
+    "elapsed_s": 0.0019962079986726167,
+    "rss_before_mb": 185.40625,
+    "rss_after_mb": 185.40625
+  },
+  {
+    "label": "popularity_user_41656",
+    "elapsed_s": 0.00247687500086613,
+    "rss_before_mb": 185.40625,
+    "rss_after_mb": 185.40625
+  },
+  {
+    "label": "exact_user_41656",
+    "elapsed_s": 0.0014200000005075708,
+    "rss_before_mb": 185.40625,
+    "rss_after_mb": 185.40625
+  },
+  {
+    "label": "popularity_user_41939",
+    "elapsed_s": 0.0024061250005615875,
+    "rss_before_mb": 185.40625,
+    "rss_after_mb": 185.484375
+  },
+  {
+    "label": "exact_user_41939",
+    "elapsed_s": 0.0046170839996193536,
+    "rss_before_mb": 185.484375,
+    "rss_after_mb": 185.484375
+  },
+  {
+    "label": "popularity_user_42019",
+    "elapsed_s": 0.002054082999165985,
+    "rss_before_mb": 185.484375,
+    "rss_after_mb": 185.484375
+  },
+  {
+    "label": "exact_user_42019",
+    "elapsed_s": 0.0028482910001912387,
+    "rss_before_mb": 185.484375,
+    "rss_after_mb": 185.484375
+  },
+  {
+    "label": "popularity_user_42510",
+    "elapsed_s": 0.0023342089989455417,
+    "rss_before_mb": 185.484375,
+    "rss_after_mb": 185.484375
+  },
+  {
+    "label": "exact_user_42510",
+    "elapsed_s": 0.001501458000348066,
+    "rss_before_mb": 185.484375,
+    "rss_after_mb": 185.484375
+  },
+  {
+    "label": "popularity_user_42655",
+    "elapsed_s": 0.0025550000009388896,
+    "rss_before_mb": 185.484375,
+    "rss_after_mb": 185.484375
+  },
+  {
+    "label": "exact_user_42655",
+    "elapsed_s": 0.0069542919991363306,
+    "rss_before_mb": 185.484375,
+    "rss_after_mb": 185.546875
+  },
+  {
+    "label": "popularity_user_43290",
+    "elapsed_s": 0.002282833000208484,
+    "rss_before_mb": 185.546875,
+    "rss_after_mb": 185.546875
+  },
+  {
+    "label": "exact_user_43290",
+    "elapsed_s": 0.0059745830003521405,
+    "rss_before_mb": 185.546875,
+    "rss_after_mb": 185.59375
+  },
+  {
+    "label": "popularity_user_43838",
+    "elapsed_s": 0.0023903750006866176,
+    "rss_before_mb": 185.59375,
+    "rss_after_mb": 185.59375
+  },
+  {
+    "label": "exact_user_43838",
+    "elapsed_s": 0.003431625000303029,
+    "rss_before_mb": 185.59375,
+    "rss_after_mb": 185.59375
+  },
+  {
+    "label": "popularity_user_44186",
+    "elapsed_s": 0.002459874998749001,
+    "rss_before_mb": 185.59375,
+    "rss_after_mb": 185.59375
+  },
+  {
+    "label": "exact_user_44186",
+    "elapsed_s": 0.002966957999888109,
+    "rss_before_mb": 185.59375,
+    "rss_after_mb": 185.609375
+  },
+  {
+    "label": "popularity_user_44321",
+    "elapsed_s": 0.002188832999308943,
+    "rss_before_mb": 185.609375,
+    "rss_after_mb": 185.609375
+  },
+  {
+    "label": "exact_user_44321",
+    "elapsed_s": 0.002144208001482184,
+    "rss_before_mb": 185.609375,
+    "rss_after_mb": 185.671875
+  },
+  {
+    "label": "popularity_user_44370",
+    "elapsed_s": 0.0022042920008971123,
+    "rss_before_mb": 185.671875,
+    "rss_after_mb": 185.671875
+  },
+  {
+    "label": "exact_user_44370",
+    "elapsed_s": 0.0025219160015694797,
+    "rss_before_mb": 185.671875,
+    "rss_after_mb": 185.671875
+  },
+  {
+    "label": "popularity_user_44562",
+    "elapsed_s": 0.0021207500012678793,
+    "rss_before_mb": 185.671875,
+    "rss_after_mb": 185.671875
+  },
+  {
+    "label": "exact_user_44562",
+    "elapsed_s": 0.0036340839997137664,
+    "rss_before_mb": 185.671875,
+    "rss_after_mb": 185.6875
+  },
+  {
+    "label": "popularity_user_44772",
+    "elapsed_s": 0.003935541999453562,
+    "rss_before_mb": 185.6875,
+    "rss_after_mb": 185.65625
+  },
+  {
+    "label": "exact_user_44772",
+    "elapsed_s": 0.006429042001400376,
+    "rss_before_mb": 185.65625,
+    "rss_after_mb": 185.65625
+  },
+  {
+    "label": "popularity_user_45014",
+    "elapsed_s": 0.002246000000013737,
+    "rss_before_mb": 185.65625,
+    "rss_after_mb": 185.65625
+  },
+  {
+    "label": "exact_user_45014",
+    "elapsed_s": 0.001949124998645857,
+    "rss_before_mb": 185.65625,
+    "rss_after_mb": 185.65625
+  },
+  {
+    "label": "popularity_user_45185",
+    "elapsed_s": 0.0023029589992802357,
+    "rss_before_mb": 185.65625,
+    "rss_after_mb": 185.65625
+  },
+  {
+    "label": "exact_user_45185",
+    "elapsed_s": 0.00545520800005761,
+    "rss_before_mb": 185.65625,
+    "rss_after_mb": 185.65625
+  },
+  {
+    "label": "popularity_user_45462",
+    "elapsed_s": 0.002343791000384954,
+    "rss_before_mb": 185.65625,
+    "rss_after_mb": 185.65625
+  },
+  {
+    "label": "exact_user_45462",
+    "elapsed_s": 0.002043624999714666,
+    "rss_before_mb": 185.65625,
+    "rss_after_mb": 185.65625
+  },
+  {
+    "label": "popularity_user_45596",
+    "elapsed_s": 0.002303542001754977,
+    "rss_before_mb": 185.65625,
+    "rss_after_mb": 185.65625
+  },
+  {
+    "label": "exact_user_45596",
+    "elapsed_s": 0.0060545000014826655,
+    "rss_before_mb": 185.65625,
+    "rss_after_mb": 185.65625
+  },
+  {
+    "label": "popularity_user_45906",
+    "elapsed_s": 0.0023718749998806743,
+    "rss_before_mb": 185.65625,
+    "rss_after_mb": 185.65625
+  },
+  {
+    "label": "exact_user_45906",
+    "elapsed_s": 0.006201624999448541,
+    "rss_before_mb": 185.65625,
+    "rss_after_mb": 185.6875
+  },
+  {
+    "label": "popularity_user_46113",
+    "elapsed_s": 0.0020442500008357456,
+    "rss_before_mb": 185.6875,
+    "rss_after_mb": 185.6875
+  },
+  {
+    "label": "exact_user_46113",
+    "elapsed_s": 0.0014831249991402728,
+    "rss_before_mb": 185.6875,
+    "rss_after_mb": 185.6875
+  },
+  {
+    "label": "popularity_user_46415",
+    "elapsed_s": 0.0022697080003126757,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "exact_user_46415",
+    "elapsed_s": 0.0018121250013791723,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "popularity_user_46575",
+    "elapsed_s": 0.0025729169992700918,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "exact_user_46575",
+    "elapsed_s": 0.00028295800075284205,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "popularity_user_46580",
+    "elapsed_s": 0.002355542001168942,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "exact_user_46580",
+    "elapsed_s": 0.0021019169998908183,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "popularity_user_46954",
+    "elapsed_s": 0.0023094160005712183,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "exact_user_46954",
+    "elapsed_s": 0.0007410420002997853,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "popularity_user_47261",
+    "elapsed_s": 0.002277499999763677,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "exact_user_47261",
+    "elapsed_s": 0.0002524579995224485,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "popularity_user_47272",
+    "elapsed_s": 0.002139500000339467,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "exact_user_47272",
+    "elapsed_s": 0.0024642920016049175,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "popularity_user_47978",
+    "elapsed_s": 0.0024058330000116257,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "exact_user_47978",
+    "elapsed_s": 0.001270165999812889,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "popularity_user_48109",
+    "elapsed_s": 0.0022072499996284023,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "exact_user_48109",
+    "elapsed_s": 0.0014190419988153735,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "popularity_user_48443",
+    "elapsed_s": 0.0020834160004596924,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "exact_user_48443",
+    "elapsed_s": 0.0021983749993523816,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "popularity_user_48585",
+    "elapsed_s": 0.002076957998724538,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "exact_user_48585",
+    "elapsed_s": 0.00048629199955030344,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "popularity_user_48999",
+    "elapsed_s": 0.0023561660000268603,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.703125
+  },
+  {
+    "label": "exact_user_48999",
+    "elapsed_s": 0.0011105419998784782,
+    "rss_before_mb": 185.703125,
+    "rss_after_mb": 185.71875
+  },
+  {
+    "label": "popularity_user_49402",
+    "elapsed_s": 0.002247791999252513,
+    "rss_before_mb": 185.71875,
+    "rss_after_mb": 185.71875
+  },
+  {
+    "label": "exact_user_49402",
+    "elapsed_s": 0.0017032910000125412,
+    "rss_before_mb": 185.71875,
+    "rss_after_mb": 185.71875
+  },
+  {
+    "label": "popularity_user_49734",
+    "elapsed_s": 0.0023860000001150183,
+    "rss_before_mb": 185.71875,
+    "rss_after_mb": 185.71875
+  },
+  {
+    "label": "exact_user_49734",
+    "elapsed_s": 0.0015016249999462161,
+    "rss_before_mb": 185.71875,
+    "rss_after_mb": 185.734375
+  },
+  {
+    "label": "popularity_user_49848",
+    "elapsed_s": 0.0021303329995134845,
+    "rss_before_mb": 185.734375,
+    "rss_after_mb": 185.734375
+  },
+  {
+    "label": "exact_user_49848",
+    "elapsed_s": 0.0008338749994436512,
+    "rss_before_mb": 185.734375,
+    "rss_after_mb": 185.734375
+  },
+  {
+    "label": "popularity_user_50173",
+    "elapsed_s": 0.002894041999752517,
+    "rss_before_mb": 185.734375,
+    "rss_after_mb": 185.734375
+  },
+  {
+    "label": "exact_user_50173",
+    "elapsed_s": 0.0023845830000936985,
+    "rss_before_mb": 185.734375,
+    "rss_after_mb": 185.75
+  },
+  {
+    "label": "popularity_user_50225",
+    "elapsed_s": 0.00222429200039187,
+    "rss_before_mb": 185.75,
+    "rss_after_mb": 185.75
+  },
+  {
+    "label": "exact_user_50225",
+    "elapsed_s": 0.0021073749994684476,
+    "rss_before_mb": 185.75,
+    "rss_after_mb": 185.765625
+  },
+  {
+    "label": "popularity_user_50307",
+    "elapsed_s": 0.0023551249996671686,
+    "rss_before_mb": 185.765625,
+    "rss_after_mb": 185.765625
+  },
+  {
+    "label": "exact_user_50307",
+    "elapsed_s": 0.0002181249983550515,
+    "rss_before_mb": 185.765625,
+    "rss_after_mb": 185.765625
+  },
+  {
+    "label": "popularity_user_50586",
+    "elapsed_s": 0.0021009579995734384,
+    "rss_before_mb": 185.765625,
+    "rss_after_mb": 185.765625
+  },
+  {
+    "label": "exact_user_50586",
+    "elapsed_s": 0.004418665999764926,
+    "rss_before_mb": 185.765625,
+    "rss_after_mb": 185.765625
+  },
+  {
+    "label": "popularity_user_50615",
+    "elapsed_s": 0.0024064160006673774,
+    "rss_before_mb": 185.765625,
+    "rss_after_mb": 185.78125
+  },
+  {
+    "label": "exact_user_50615",
+    "elapsed_s": 0.0014609159989049658,
+    "rss_before_mb": 185.78125,
+    "rss_after_mb": 185.796875
+  },
+  {
+    "label": "popularity_user_50651",
+    "elapsed_s": 0.002494416999979876,
+    "rss_before_mb": 185.796875,
+    "rss_after_mb": 185.796875
+  },
+  {
+    "label": "exact_user_50651",
+    "elapsed_s": 0.0001997500003199093,
+    "rss_before_mb": 185.796875,
+    "rss_after_mb": 185.796875
+  },
+  {
+    "label": "popularity_user_50674",
+    "elapsed_s": 0.002159374998882413,
+    "rss_before_mb": 185.796875,
+    "rss_after_mb": 185.8125
+  },
+  {
+    "label": "exact_user_50674",
+    "elapsed_s": 0.0013852920001227176,
+    "rss_before_mb": 185.8125,
+    "rss_after_mb": 185.828125
+  },
+  {
+    "label": "popularity_user_50826",
+    "elapsed_s": 0.0022182080010679783,
+    "rss_before_mb": 185.828125,
+    "rss_after_mb": 185.828125
+  },
+  {
+    "label": "exact_user_50826",
+    "elapsed_s": 0.004052959000546252,
+    "rss_before_mb": 185.828125,
+    "rss_after_mb": 185.875
+  },
+  {
+    "label": "popularity_user_50829",
+    "elapsed_s": 0.0023438329990312923,
+    "rss_before_mb": 185.875,
+    "rss_after_mb": 185.875
+  },
+  {
+    "label": "exact_user_50829",
+    "elapsed_s": 0.0018544579997978872,
+    "rss_before_mb": 185.875,
+    "rss_after_mb": 185.875
+  },
+  {
+    "label": "popularity_user_50879",
+    "elapsed_s": 0.002343292000659858,
+    "rss_before_mb": 185.875,
+    "rss_after_mb": 185.875
+  },
+  {
+    "label": "exact_user_50879",
+    "elapsed_s": 0.000862000000779517,
+    "rss_before_mb": 185.875,
+    "rss_after_mb": 185.875
+  },
+  {
+    "label": "popularity_user_51105",
+    "elapsed_s": 0.0023317089999181917,
+    "rss_before_mb": 185.875,
+    "rss_after_mb": 185.875
+  },
+  {
+    "label": "exact_user_51105",
+    "elapsed_s": 0.0031598339992342517,
+    "rss_before_mb": 185.875,
+    "rss_after_mb": 185.890625
+  },
+  {
+    "label": "popularity_user_51277",
+    "elapsed_s": 0.0027375829995435197,
+    "rss_before_mb": 185.890625,
+    "rss_after_mb": 185.890625
+  },
+  {
+    "label": "exact_user_51277",
+    "elapsed_s": 0.0017513749990030192,
+    "rss_before_mb": 185.890625,
+    "rss_after_mb": 185.890625
+  },
+  {
+    "label": "popularity_user_51627",
+    "elapsed_s": 0.002432458000839688,
+    "rss_before_mb": 185.890625,
+    "rss_after_mb": 185.890625
+  },
+  {
+    "label": "exact_user_51627",
+    "elapsed_s": 0.0017167079986393219,
+    "rss_before_mb": 185.890625,
+    "rss_after_mb": 185.90625
+  },
+  {
+    "label": "popularity_user_51798",
+    "elapsed_s": 0.002447916000164696,
+    "rss_before_mb": 185.90625,
+    "rss_after_mb": 185.90625
+  },
+  {
+    "label": "exact_user_51798",
+    "elapsed_s": 0.0027260830011073267,
+    "rss_before_mb": 185.90625,
+    "rss_after_mb": 185.90625
+  },
+  {
+    "label": "popularity_user_51828",
+    "elapsed_s": 0.0027354580015526153,
+    "rss_before_mb": 185.90625,
+    "rss_after_mb": 185.90625
+  },
+  {
+    "label": "exact_user_51828",
+    "elapsed_s": 0.0031262910015357193,
+    "rss_before_mb": 185.90625,
+    "rss_after_mb": 185.921875
+  },
+  {
+    "label": "popularity_user_51998",
+    "elapsed_s": 0.0024012499998207204,
+    "rss_before_mb": 185.921875,
+    "rss_after_mb": 185.921875
+  },
+  {
+    "label": "exact_user_51998",
+    "elapsed_s": 0.001518958999440656,
+    "rss_before_mb": 185.921875,
+    "rss_after_mb": 185.9375
+  },
+  {
+    "label": "popularity_user_52197",
+    "elapsed_s": 0.0023343339998973534,
+    "rss_before_mb": 185.9375,
+    "rss_after_mb": 185.9375
+  },
+  {
+    "label": "exact_user_52197",
+    "elapsed_s": 0.0010465409995958908,
+    "rss_before_mb": 185.9375,
+    "rss_after_mb": 185.953125
+  },
+  {
+    "label": "popularity_user_52355",
+    "elapsed_s": 0.002244000001155655,
+    "rss_before_mb": 185.953125,
+    "rss_after_mb": 185.953125
+  },
+  {
+    "label": "exact_user_52355",
+    "elapsed_s": 0.0034828749994630925,
+    "rss_before_mb": 185.953125,
+    "rss_after_mb": 185.953125
+  },
+  {
+    "label": "popularity_user_52750",
+    "elapsed_s": 0.002380375000939239,
+    "rss_before_mb": 185.953125,
+    "rss_after_mb": 185.953125
+  },
+  {
+    "label": "exact_user_52750",
+    "elapsed_s": 0.001979249998839805,
+    "rss_before_mb": 185.953125,
+    "rss_after_mb": 185.96875
+  },
+  {
+    "label": "popularity_user_52935",
+    "elapsed_s": 0.0022555840005225036,
+    "rss_before_mb": 185.96875,
+    "rss_after_mb": 185.96875
+  },
+  {
+    "label": "exact_user_52935",
+    "elapsed_s": 0.003874042000461486,
+    "rss_before_mb": 185.96875,
+    "rss_after_mb": 185.984375
+  },
+  {
+    "label": "popularity_user_53326",
+    "elapsed_s": 0.002312750000783126,
+    "rss_before_mb": 185.984375,
+    "rss_after_mb": 185.984375
+  },
+  {
+    "label": "exact_user_53326",
+    "elapsed_s": 0.003937957999369246,
+    "rss_before_mb": 185.984375,
+    "rss_after_mb": 186.015625
+  },
+  {
+    "label": "popularity_user_53495",
+    "elapsed_s": 0.00243383300039568,
+    "rss_before_mb": 186.015625,
+    "rss_after_mb": 186.015625
+  },
+  {
+    "label": "exact_user_53495",
+    "elapsed_s": 0.0013594169995485572,
+    "rss_before_mb": 186.015625,
+    "rss_after_mb": 186.015625
+  },
+  {
+    "label": "popularity_user_53574",
+    "elapsed_s": 0.0023560419995192206,
+    "rss_before_mb": 186.015625,
+    "rss_after_mb": 186.015625
+  },
+  {
+    "label": "exact_user_53574",
+    "elapsed_s": 0.0019391660007386236,
+    "rss_before_mb": 186.015625,
+    "rss_after_mb": 186.015625
+  },
+  {
+    "label": "popularity_user_54212",
+    "elapsed_s": 0.0021129169999767328,
+    "rss_before_mb": 186.015625,
+    "rss_after_mb": 186.015625
+  },
+  {
+    "label": "exact_user_54212",
+    "elapsed_s": 0.0014713329983351287,
+    "rss_before_mb": 186.015625,
+    "rss_after_mb": 186.015625
+  },
+  {
+    "label": "popularity_user_54910",
+    "elapsed_s": 0.0023488749993703095,
+    "rss_before_mb": 186.015625,
+    "rss_after_mb": 186.015625
+  },
+  {
+    "label": "exact_user_54910",
+    "elapsed_s": 0.0016476250002597226,
+    "rss_before_mb": 186.015625,
+    "rss_after_mb": 186.03125
+  },
+  {
+    "label": "popularity_user_54978",
+    "elapsed_s": 0.0022678749992337544,
+    "rss_before_mb": 186.03125,
+    "rss_after_mb": 186.03125
+  },
+  {
+    "label": "exact_user_54978",
+    "elapsed_s": 0.0012917079984617885,
+    "rss_before_mb": 186.03125,
+    "rss_after_mb": 186.03125
+  },
+  {
+    "label": "popularity_user_55106",
+    "elapsed_s": 0.002333500000531785,
+    "rss_before_mb": 186.03125,
+    "rss_after_mb": 186.03125
+  },
+  {
+    "label": "exact_user_55106",
+    "elapsed_s": 0.003689291999762645,
+    "rss_before_mb": 186.03125,
+    "rss_after_mb": 186.046875
+  },
+  {
+    "label": "popularity_user_55577",
+    "elapsed_s": 0.002320749999853433,
+    "rss_before_mb": 186.046875,
+    "rss_after_mb": 186.046875
+  },
+  {
+    "label": "exact_user_55577",
+    "elapsed_s": 0.0014946250012144446,
+    "rss_before_mb": 186.046875,
+    "rss_after_mb": 186.0625
+  },
+  {
+    "label": "popularity_user_56230",
+    "elapsed_s": 0.0023544169998785947,
+    "rss_before_mb": 186.078125,
+    "rss_after_mb": 186.078125
+  },
+  {
+    "label": "exact_user_56230",
+    "elapsed_s": 0.002330999999685446,
+    "rss_before_mb": 186.078125,
+    "rss_after_mb": 186.109375
+  },
+  {
+    "label": "popularity_user_56260",
+    "elapsed_s": 0.002151542001229245,
+    "rss_before_mb": 186.109375,
+    "rss_after_mb": 186.109375
+  },
+  {
+    "label": "exact_user_56260",
+    "elapsed_s": 0.0016064170013123658,
+    "rss_before_mb": 186.109375,
+    "rss_after_mb": 186.109375
+  },
+  {
+    "label": "popularity_user_56802",
+    "elapsed_s": 0.0024005830000533024,
+    "rss_before_mb": 186.109375,
+    "rss_after_mb": 186.109375
+  },
+  {
+    "label": "exact_user_56802",
+    "elapsed_s": 0.0011843749998661224,
+    "rss_before_mb": 186.109375,
+    "rss_after_mb": 186.109375
+  },
+  {
+    "label": "popularity_user_59344",
+    "elapsed_s": 0.002383791001193458,
+    "rss_before_mb": 186.109375,
+    "rss_after_mb": 186.109375
+  },
+  {
+    "label": "exact_user_59344",
+    "elapsed_s": 0.0018282080000062706,
+    "rss_before_mb": 186.109375,
+    "rss_after_mb": 186.109375
+  },
+  {
+    "label": "popularity_user_59435",
+    "elapsed_s": 0.002318833001481835,
+    "rss_before_mb": 186.109375,
+    "rss_after_mb": 186.109375
+  },
+  {
+    "label": "exact_user_59435",
+    "elapsed_s": 0.0025500000010652,
+    "rss_before_mb": 186.109375,
+    "rss_after_mb": 186.203125
+  },
+  {
+    "label": "popularity_user_59485",
+    "elapsed_s": 0.002284374999362626,
+    "rss_before_mb": 186.203125,
+    "rss_after_mb": 186.203125
+  },
+  {
+    "label": "exact_user_59485",
+    "elapsed_s": 0.0010838749985850882,
+    "rss_before_mb": 186.203125,
+    "rss_after_mb": 186.203125
+  },
+  {
+    "label": "popularity_user_59502",
+    "elapsed_s": 0.0021974589999445016,
+    "rss_before_mb": 186.203125,
+    "rss_after_mb": 186.203125
+  },
+  {
+    "label": "exact_user_59502",
+    "elapsed_s": 0.0024903749999793945,
+    "rss_before_mb": 186.203125,
+    "rss_after_mb": 186.203125
+  },
+  {
+    "label": "popularity_user_59815",
+    "elapsed_s": 0.002622291000079713,
+    "rss_before_mb": 186.203125,
+    "rss_after_mb": 186.203125
+  },
+  {
+    "label": "exact_user_59815",
+    "elapsed_s": 0.0030885000014677644,
+    "rss_before_mb": 186.203125,
+    "rss_after_mb": 186.203125
+  },
+  {
+    "label": "popularity_user_59853",
+    "elapsed_s": 0.002352542000153335,
+    "rss_before_mb": 186.203125,
+    "rss_after_mb": 186.203125
+  },
+  {
+    "label": "exact_user_59853",
+    "elapsed_s": 0.0009691249997558771,
+    "rss_before_mb": 186.203125,
+    "rss_after_mb": 186.203125
+  },
+  {
+    "label": "popularity_user_59877",
+    "elapsed_s": 0.0021916660007264,
+    "rss_before_mb": 186.203125,
+    "rss_after_mb": 186.203125
+  },
+  {
+    "label": "exact_user_59877",
+    "elapsed_s": 0.002365000000281725,
+    "rss_before_mb": 186.203125,
+    "rss_after_mb": 186.21875
+  },
+  {
+    "label": "popularity_user_59957",
+    "elapsed_s": 0.0026850419999391306,
+    "rss_before_mb": 186.21875,
+    "rss_after_mb": 186.21875
+  },
+  {
+    "label": "exact_user_59957",
+    "elapsed_s": 0.0014130420004221378,
+    "rss_before_mb": 186.21875,
+    "rss_after_mb": 186.21875
+  },
+  {
+    "label": "popularity_user_60114",
+    "elapsed_s": 0.002415916998870671,
+    "rss_before_mb": 186.21875,
+    "rss_after_mb": 186.21875
+  },
+  {
+    "label": "exact_user_60114",
+    "elapsed_s": 0.004677958000684157,
+    "rss_before_mb": 186.21875,
+    "rss_after_mb": 186.234375
+  },
+  {
+    "label": "popularity_user_60304",
+    "elapsed_s": 0.002448125000228174,
+    "rss_before_mb": 186.234375,
+    "rss_after_mb": 186.234375
+  },
+  {
+    "label": "exact_user_60304",
+    "elapsed_s": 0.0006269169989536749,
+    "rss_before_mb": 186.234375,
+    "rss_after_mb": 186.234375
+  },
+  {
+    "label": "popularity_user_60445",
+    "elapsed_s": 0.002227083001343999,
+    "rss_before_mb": 186.234375,
+    "rss_after_mb": 186.234375
+  },
+  {
+    "label": "exact_user_60445",
+    "elapsed_s": 0.00523037499988277,
+    "rss_before_mb": 186.234375,
+    "rss_after_mb": 186.234375
+  },
+  {
+    "label": "popularity_user_60446",
+    "elapsed_s": 0.00218204199882166,
+    "rss_before_mb": 186.234375,
+    "rss_after_mb": 186.234375
+  },
+  {
+    "label": "exact_user_60446",
+    "elapsed_s": 0.0006339589999697637,
+    "rss_before_mb": 186.234375,
+    "rss_after_mb": 186.234375
+  },
+  {
+    "label": "popularity_user_60699",
+    "elapsed_s": 0.0019911670005967608,
+    "rss_before_mb": 186.234375,
+    "rss_after_mb": 186.234375
+  },
+  {
+    "label": "exact_user_60699",
+    "elapsed_s": 0.0008155409996106755,
+    "rss_before_mb": 186.234375,
+    "rss_after_mb": 186.234375
+  },
+  {
+    "label": "popularity_user_60730",
+    "elapsed_s": 0.0025911249995260732,
+    "rss_before_mb": 186.234375,
+    "rss_after_mb": 186.234375
+  },
+  {
+    "label": "exact_user_60730",
+    "elapsed_s": 0.0025029170010384405,
+    "rss_before_mb": 186.234375,
+    "rss_after_mb": 186.34375
+  },
+  {
+    "label": "popularity_user_60970",
+    "elapsed_s": 0.0028504170004453044,
+    "rss_before_mb": 186.34375,
+    "rss_after_mb": 186.34375
+  },
+  {
+    "label": "exact_user_60970",
+    "elapsed_s": 0.003174500001478009,
+    "rss_before_mb": 186.34375,
+    "rss_after_mb": 186.34375
+  },
+  {
+    "label": "popularity_user_61024",
+    "elapsed_s": 0.00244991699946695,
+    "rss_before_mb": 186.34375,
+    "rss_after_mb": 186.34375
+  },
+  {
+    "label": "exact_user_61024",
+    "elapsed_s": 0.004172708999249153,
+    "rss_before_mb": 186.34375,
+    "rss_after_mb": 186.34375
+  },
+  {
+    "label": "popularity_user_61119",
+    "elapsed_s": 0.0022941250008443603,
+    "rss_before_mb": 186.34375,
+    "rss_after_mb": 186.34375
+  },
+  {
+    "label": "exact_user_61119",
+    "elapsed_s": 0.0002842499998223502,
+    "rss_before_mb": 186.34375,
+    "rss_after_mb": 186.34375
+  },
+  {
+    "label": "popularity_user_61251",
+    "elapsed_s": 0.0021726670001953607,
+    "rss_before_mb": 186.34375,
+    "rss_after_mb": 186.34375
+  },
+  {
+    "label": "exact_user_61251",
+    "elapsed_s": 0.0023083750002115266,
+    "rss_before_mb": 186.34375,
+    "rss_after_mb": 186.359375
+  },
+  {
+    "label": "popularity_user_61281",
+    "elapsed_s": 0.00235650000104215,
+    "rss_before_mb": 186.359375,
+    "rss_after_mb": 186.359375
+  },
+  {
+    "label": "exact_user_61281",
+    "elapsed_s": 0.0037520000005315524,
+    "rss_before_mb": 186.359375,
+    "rss_after_mb": 186.359375
+  },
+  {
+    "label": "popularity_user_61388",
+    "elapsed_s": 0.0024581670004408807,
+    "rss_before_mb": 186.359375,
+    "rss_after_mb": 186.359375
+  },
+  {
+    "label": "exact_user_61388",
+    "elapsed_s": 0.001894540999273886,
+    "rss_before_mb": 186.359375,
+    "rss_after_mb": 186.359375
+  },
+  {
+    "label": "popularity_user_61677",
+    "elapsed_s": 0.0024818750007398194,
+    "rss_before_mb": 186.359375,
+    "rss_after_mb": 186.359375
+  },
+  {
+    "label": "exact_user_61677",
+    "elapsed_s": 0.001924416999827372,
+    "rss_before_mb": 186.359375,
+    "rss_after_mb": 186.359375
+  },
+  {
+    "label": "popularity_user_61717",
+    "elapsed_s": 0.0023453750000044238,
+    "rss_before_mb": 186.359375,
+    "rss_after_mb": 186.359375
+  },
+  {
+    "label": "exact_user_61717",
+    "elapsed_s": 0.0019789580001088325,
+    "rss_before_mb": 186.359375,
+    "rss_after_mb": 186.359375
+  },
+  {
+    "label": "popularity_user_61804",
+    "elapsed_s": 0.002373541999986628,
+    "rss_before_mb": 186.359375,
+    "rss_after_mb": 186.359375
+  },
+  {
+    "label": "exact_user_61804",
+    "elapsed_s": 0.0029489999997167615,
+    "rss_before_mb": 186.359375,
+    "rss_after_mb": 186.359375
+  },
+  {
+    "label": "popularity_user_62662",
+    "elapsed_s": 0.002329291999558336,
+    "rss_before_mb": 186.359375,
+    "rss_after_mb": 186.359375
+  },
+  {
+    "label": "exact_user_62662",
+    "elapsed_s": 0.0016218749988183845,
+    "rss_before_mb": 186.359375,
+    "rss_after_mb": 186.390625
+  },
+  {
+    "label": "popularity_user_63018",
+    "elapsed_s": 0.002734084000621806,
+    "rss_before_mb": 186.390625,
+    "rss_after_mb": 186.390625
+  },
+  {
+    "label": "exact_user_63018",
+    "elapsed_s": 0.0035563750006986083,
+    "rss_before_mb": 186.390625,
+    "rss_after_mb": 186.4375
+  },
+  {
+    "label": "popularity_user_63192",
+    "elapsed_s": 0.0022705829996994,
+    "rss_before_mb": 186.4375,
+    "rss_after_mb": 186.4375
+  },
+  {
+    "label": "exact_user_63192",
+    "elapsed_s": 0.0007419169996865094,
+    "rss_before_mb": 186.4375,
+    "rss_after_mb": 186.4375
+  },
+  {
+    "label": "popularity_user_63527",
+    "elapsed_s": 0.0023912500000733417,
+    "rss_before_mb": 186.4375,
+    "rss_after_mb": 186.4375
+  },
+  {
+    "label": "exact_user_63527",
+    "elapsed_s": 0.0027379170005588094,
+    "rss_before_mb": 186.4375,
+    "rss_after_mb": 186.4375
+  },
+  {
+    "label": "popularity_user_63843",
+    "elapsed_s": 0.002516832999390317,
+    "rss_before_mb": 186.4375,
+    "rss_after_mb": 186.4375
+  },
+  {
+    "label": "exact_user_63843",
+    "elapsed_s": 0.004372291999970912,
+    "rss_before_mb": 186.4375,
+    "rss_after_mb": 186.6875
+  },
+  {
+    "label": "popularity_user_64170",
+    "elapsed_s": 0.002279584001371404,
+    "rss_before_mb": 186.6875,
+    "rss_after_mb": 186.6875
+  },
+  {
+    "label": "exact_user_64170",
+    "elapsed_s": 0.0002541249996284023,
+    "rss_before_mb": 186.6875,
+    "rss_after_mb": 186.6875
+  },
+  {
+    "label": "popularity_user_64200",
+    "elapsed_s": 0.0022623330005444586,
+    "rss_before_mb": 186.6875,
+    "rss_after_mb": 186.6875
+  },
+  {
+    "label": "exact_user_64200",
+    "elapsed_s": 0.0010621670007822104,
+    "rss_before_mb": 186.6875,
+    "rss_after_mb": 186.6875
+  },
+  {
+    "label": "popularity_user_64258",
+    "elapsed_s": 0.002437500001178705,
+    "rss_before_mb": 186.6875,
+    "rss_after_mb": 186.6875
+  },
+  {
+    "label": "exact_user_64258",
+    "elapsed_s": 0.00030499999957100954,
+    "rss_before_mb": 186.6875,
+    "rss_after_mb": 186.6875
+  },
+  {
+    "label": "popularity_user_64297",
+    "elapsed_s": 0.0024445420003758045,
+    "rss_before_mb": 186.6875,
+    "rss_after_mb": 186.6875
+  },
+  {
+    "label": "exact_user_64297",
+    "elapsed_s": 0.0015435829991474748,
+    "rss_before_mb": 186.6875,
+    "rss_after_mb": 186.6875
+  },
+  {
+    "label": "popularity_user_64356",
+    "elapsed_s": 0.002120957999068196,
+    "rss_before_mb": 186.6875,
+    "rss_after_mb": 186.6875
+  },
+  {
+    "label": "exact_user_64356",
+    "elapsed_s": 0.003486416999294306,
+    "rss_before_mb": 186.6875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "popularity_user_64670",
+    "elapsed_s": 0.0024819999998726416,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "exact_user_64670",
+    "elapsed_s": 0.0004698749999079155,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "popularity_user_65169",
+    "elapsed_s": 0.00213570799860463,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "exact_user_65169",
+    "elapsed_s": 0.0010246250003547175,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "popularity_user_65262",
+    "elapsed_s": 0.00275054200028535,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "exact_user_65262",
+    "elapsed_s": 0.0021237909986666637,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "popularity_user_65445",
+    "elapsed_s": 0.0022510409999085823,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "exact_user_65445",
+    "elapsed_s": 0.0014600000013160752,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "popularity_user_65593",
+    "elapsed_s": 0.0023372920004476327,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "exact_user_65593",
+    "elapsed_s": 0.0002505829997971887,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "popularity_user_65636",
+    "elapsed_s": 0.002292125000167289,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "exact_user_65636",
+    "elapsed_s": 0.00024012500034586992,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "popularity_user_65751",
+    "elapsed_s": 0.0021926249992247904,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "exact_user_65751",
+    "elapsed_s": 0.00031599999965692405,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "popularity_user_66056",
+    "elapsed_s": 0.0028807500002585584,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "exact_user_66056",
+    "elapsed_s": 0.002078667001114809,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "popularity_user_66067",
+    "elapsed_s": 0.0023377920006169006,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "exact_user_66067",
+    "elapsed_s": 0.003963417000704794,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "popularity_user_66238",
+    "elapsed_s": 0.0023831250000512227,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "exact_user_66238",
+    "elapsed_s": 0.0016405830010626232,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "popularity_user_66314",
+    "elapsed_s": 0.0028032910013280343,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "exact_user_66314",
+    "elapsed_s": 0.0015595000004395843,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "popularity_user_66731",
+    "elapsed_s": 0.0023566250001749722,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "exact_user_66731",
+    "elapsed_s": 0.005598124998869025,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "popularity_user_67272",
+    "elapsed_s": 0.0021491249990504002,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "exact_user_67272",
+    "elapsed_s": 0.00023299999884329736,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "popularity_user_67396",
+    "elapsed_s": 0.0020889169991278322,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "exact_user_67396",
+    "elapsed_s": 0.0018795420000969898,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "popularity_user_68258",
+    "elapsed_s": 0.00214991699976963,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "exact_user_68258",
+    "elapsed_s": 0.0007095829987520119,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "popularity_user_68312",
+    "elapsed_s": 0.0020910420007567154,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "exact_user_68312",
+    "elapsed_s": 0.00041441699977440294,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "popularity_user_68392",
+    "elapsed_s": 0.002513666000595549,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "exact_user_68392",
+    "elapsed_s": 0.0014352499983942835,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "popularity_user_68501",
+    "elapsed_s": 0.0026764170015667332,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "exact_user_68501",
+    "elapsed_s": 0.0027371249998395797,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "popularity_user_69165",
+    "elapsed_s": 0.0026316250005038455,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "exact_user_69165",
+    "elapsed_s": 0.0020370000002003508,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "popularity_user_69181",
+    "elapsed_s": 0.0024810839986457722,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "exact_user_69181",
+    "elapsed_s": 0.0013089170006423956,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "popularity_user_69570",
+    "elapsed_s": 0.0024734580001677386,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "exact_user_69570",
+    "elapsed_s": 0.0002758330010692589,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "popularity_user_69812",
+    "elapsed_s": 0.002505416001440608,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "exact_user_69812",
+    "elapsed_s": 0.003135290999125573,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "popularity_user_69876",
+    "elapsed_s": 0.0024625829992146464,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "exact_user_69876",
+    "elapsed_s": 0.00021245900097710546,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "popularity_user_69880",
+    "elapsed_s": 0.0023241250000864966,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "exact_user_69880",
+    "elapsed_s": 0.00033724999957485124,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "popularity_user_69883",
+    "elapsed_s": 0.0024562919988966314,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "exact_user_69883",
+    "elapsed_s": 0.002806750000672764,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.75
+  },
+  {
+    "label": "popularity_user_70009",
+    "elapsed_s": 0.0026255829998262925,
+    "rss_before_mb": 186.75,
+    "rss_after_mb": 186.75
+  },
+  {
+    "label": "exact_user_70009",
+    "elapsed_s": 0.0013783329995931126,
+    "rss_before_mb": 186.75,
+    "rss_after_mb": 186.78125
+  },
+  {
+    "label": "popularity_user_70542",
+    "elapsed_s": 0.002394832999925711,
+    "rss_before_mb": 186.78125,
+    "rss_after_mb": 186.78125
+  },
+  {
+    "label": "exact_user_70542",
+    "elapsed_s": 0.0024160410011973,
+    "rss_before_mb": 186.78125,
+    "rss_after_mb": 186.796875
+  },
+  {
+    "label": "popularity_user_70574",
+    "elapsed_s": 0.0022230839986150386,
+    "rss_before_mb": 186.796875,
+    "rss_after_mb": 186.796875
+  },
+  {
+    "label": "exact_user_70574",
+    "elapsed_s": 0.0018509170004108455,
+    "rss_before_mb": 186.796875,
+    "rss_after_mb": 186.796875
+  },
+  {
+    "label": "popularity_user_71008",
+    "elapsed_s": 0.0025354589997732546,
+    "rss_before_mb": 186.796875,
+    "rss_after_mb": 186.796875
+  },
+  {
+    "label": "exact_user_71008",
+    "elapsed_s": 0.0017275829995924141,
+    "rss_before_mb": 186.796875,
+    "rss_after_mb": 186.796875
+  },
+  {
+    "label": "popularity_user_71122",
+    "elapsed_s": 0.002693750000617001,
+    "rss_before_mb": 186.796875,
+    "rss_after_mb": 186.796875
+  },
+  {
+    "label": "exact_user_71122",
+    "elapsed_s": 0.0005984999988868367,
+    "rss_before_mb": 186.796875,
+    "rss_after_mb": 186.796875
+  },
+  {
+    "label": "popularity_user_71184",
+    "elapsed_s": 0.0025973339998017764,
+    "rss_before_mb": 186.796875,
+    "rss_after_mb": 186.796875
+  },
+  {
+    "label": "exact_user_71184",
+    "elapsed_s": 0.0010611659999995027,
+    "rss_before_mb": 186.796875,
+    "rss_after_mb": 186.796875
+  },
+  {
+    "label": "popularity_user_71532",
+    "elapsed_s": 0.0034571670003060717,
+    "rss_before_mb": 186.796875,
+    "rss_after_mb": 186.703125
+  },
+  {
+    "label": "exact_user_71532",
+    "elapsed_s": 0.0011730000005627517,
+    "rss_before_mb": 186.703125,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "popularity_user_72165",
+    "elapsed_s": 0.0025420420006412314,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "exact_user_72165",
+    "elapsed_s": 0.0010389580002083676,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "popularity_user_72795",
+    "elapsed_s": 0.003124458000456798,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.71875
+  },
+  {
+    "label": "exact_user_72795",
+    "elapsed_s": 0.002261249999719439,
+    "rss_before_mb": 186.71875,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "popularity_user_72831",
+    "elapsed_s": 0.0024985410000226693,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "exact_user_72831",
+    "elapsed_s": 0.0006977909997658571,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "popularity_user_73575",
+    "elapsed_s": 0.0021139580003364244,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.734375
+  },
+  {
+    "label": "exact_user_73575",
+    "elapsed_s": 0.001792750001186505,
+    "rss_before_mb": 186.734375,
+    "rss_after_mb": 186.75
+  },
+  {
+    "label": "popularity_user_74085",
+    "elapsed_s": 0.0021067500001663575,
+    "rss_before_mb": 186.75,
+    "rss_after_mb": 186.75
+  },
+  {
+    "label": "exact_user_74085",
+    "elapsed_s": 0.0005790830000478309,
+    "rss_before_mb": 186.75,
+    "rss_after_mb": 186.75
+  },
+  {
+    "label": "popularity_user_74188",
+    "elapsed_s": 0.0024931670013756957,
+    "rss_before_mb": 186.75,
+    "rss_after_mb": 186.75
+  },
+  {
+    "label": "exact_user_74188",
+    "elapsed_s": 0.0033082909994845977,
+    "rss_before_mb": 186.75,
+    "rss_after_mb": 186.78125
+  },
+  {
+    "label": "popularity_user_74308",
+    "elapsed_s": 0.002456083000652143,
+    "rss_before_mb": 186.78125,
+    "rss_after_mb": 186.78125
+  },
+  {
+    "label": "exact_user_74308",
+    "elapsed_s": 0.00029979099963384215,
+    "rss_before_mb": 186.78125,
+    "rss_after_mb": 186.78125
+  },
+  {
+    "label": "popularity_user_74537",
+    "elapsed_s": 0.0021280410001054406,
+    "rss_before_mb": 186.78125,
+    "rss_after_mb": 186.78125
+  },
+  {
+    "label": "exact_user_74537",
+    "elapsed_s": 0.00327445900074963,
+    "rss_before_mb": 186.78125,
+    "rss_after_mb": 186.796875
+  },
+  {
+    "label": "popularity_user_74807",
+    "elapsed_s": 0.0024429170007351786,
+    "rss_before_mb": 186.796875,
+    "rss_after_mb": 186.796875
+  },
+  {
+    "label": "exact_user_74807",
+    "elapsed_s": 0.0022137079995445674,
+    "rss_before_mb": 186.796875,
+    "rss_after_mb": 186.828125
+  },
+  {
+    "label": "popularity_user_75132",
+    "elapsed_s": 0.002306459000465111,
+    "rss_before_mb": 186.828125,
+    "rss_after_mb": 186.828125
+  },
+  {
+    "label": "exact_user_75132",
+    "elapsed_s": 0.00029941599859739654,
+    "rss_before_mb": 186.828125,
+    "rss_after_mb": 186.828125
+  },
+  {
+    "label": "popularity_user_75473",
+    "elapsed_s": 0.002183958000387065,
+    "rss_before_mb": 186.828125,
+    "rss_after_mb": 186.828125
+  },
+  {
+    "label": "exact_user_75473",
+    "elapsed_s": 0.0013040419999015285,
+    "rss_before_mb": 186.828125,
+    "rss_after_mb": 186.828125
+  },
+  {
+    "label": "popularity_user_76162",
+    "elapsed_s": 0.0024246249995485414,
+    "rss_before_mb": 186.828125,
+    "rss_after_mb": 186.828125
+  },
+  {
+    "label": "exact_user_76162",
+    "elapsed_s": 0.0016725000004953472,
+    "rss_before_mb": 186.828125,
+    "rss_after_mb": 186.84375
+  },
+  {
+    "label": "popularity_user_76183",
+    "elapsed_s": 0.002300874999491498,
+    "rss_before_mb": 186.84375,
+    "rss_after_mb": 186.84375
+  },
+  {
+    "label": "exact_user_76183",
+    "elapsed_s": 0.005265249999865773,
+    "rss_before_mb": 186.84375,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "popularity_user_76195",
+    "elapsed_s": 0.0023151660006988095,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "exact_user_76195",
+    "elapsed_s": 0.0037444579993461957,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "popularity_user_76247",
+    "elapsed_s": 0.0024208750000980217,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "exact_user_76247",
+    "elapsed_s": 0.0001854999991337536,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "popularity_user_76329",
+    "elapsed_s": 0.002136166998752742,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "exact_user_76329",
+    "elapsed_s": 0.0011312919996271376,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "popularity_user_76589",
+    "elapsed_s": 0.0028409590013325214,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "exact_user_76589",
+    "elapsed_s": 0.0021995839997543953,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "popularity_user_76874",
+    "elapsed_s": 0.002293458999702125,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "exact_user_76874",
+    "elapsed_s": 0.0005187919996387791,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "popularity_user_77147",
+    "elapsed_s": 0.002259875000163447,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "exact_user_77147",
+    "elapsed_s": 0.002206959001341602,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "popularity_user_77487",
+    "elapsed_s": 0.0021448339994094567,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "exact_user_77487",
+    "elapsed_s": 0.0002299170009791851,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "popularity_user_78116",
+    "elapsed_s": 0.0028788330000679707,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "exact_user_78116",
+    "elapsed_s": 0.0005735409995395457,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "popularity_user_78279",
+    "elapsed_s": 0.0023053339991747634,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.921875
+  },
+  {
+    "label": "exact_user_78279",
+    "elapsed_s": 0.0018025420013145776,
+    "rss_before_mb": 186.921875,
+    "rss_after_mb": 186.9375
+  },
+  {
+    "label": "popularity_user_78783",
+    "elapsed_s": 0.002585000000181026,
+    "rss_before_mb": 186.9375,
+    "rss_after_mb": 186.9375
+  },
+  {
+    "label": "exact_user_78783",
+    "elapsed_s": 0.0022726669994881377,
+    "rss_before_mb": 186.9375,
+    "rss_after_mb": 186.9375
+  },
+  {
+    "label": "popularity_user_78842",
+    "elapsed_s": 0.0021532079990720376,
+    "rss_before_mb": 186.9375,
+    "rss_after_mb": 186.9375
+  },
+  {
+    "label": "exact_user_78842",
+    "elapsed_s": 0.00138445799893816,
+    "rss_before_mb": 186.9375,
+    "rss_after_mb": 186.9375
+  },
+  {
+    "label": "popularity_user_78914",
+    "elapsed_s": 0.0026477499995962717,
+    "rss_before_mb": 186.9375,
+    "rss_after_mb": 186.9375
+  },
+  {
+    "label": "exact_user_78914",
+    "elapsed_s": 0.0006975420001253951,
+    "rss_before_mb": 186.9375,
+    "rss_after_mb": 186.9375
+  },
+  {
+    "label": "popularity_user_79018",
+    "elapsed_s": 0.0023245419997692807,
+    "rss_before_mb": 186.9375,
+    "rss_after_mb": 186.9375
+  },
+  {
+    "label": "exact_user_79018",
+    "elapsed_s": 0.0008411660001002019,
+    "rss_before_mb": 186.9375,
+    "rss_after_mb": 186.9375
+  },
+  {
+    "label": "popularity_user_79488",
+    "elapsed_s": 0.002291124999828753,
+    "rss_before_mb": 186.9375,
+    "rss_after_mb": 186.9375
+  },
+  {
+    "label": "exact_user_79488",
+    "elapsed_s": 0.003778000000238535,
+    "rss_before_mb": 186.9375,
+    "rss_after_mb": 186.96875
+  },
+  {
+    "label": "popularity_user_79516",
+    "elapsed_s": 0.002318958000614657,
+    "rss_before_mb": 186.96875,
+    "rss_after_mb": 186.96875
+  },
+  {
+    "label": "exact_user_79516",
+    "elapsed_s": 0.005038000001150067,
+    "rss_before_mb": 186.96875,
+    "rss_after_mb": 187.0
+  },
+  {
+    "label": "popularity_user_79639",
+    "elapsed_s": 0.002253208000183804,
+    "rss_before_mb": 187.0,
+    "rss_after_mb": 187.0
+  },
+  {
+    "label": "exact_user_79639",
+    "elapsed_s": 0.004117459000553936,
+    "rss_before_mb": 187.0,
+    "rss_after_mb": 187.0
+  },
+  {
+    "label": "popularity_user_79792",
+    "elapsed_s": 0.002372291000938276,
+    "rss_before_mb": 187.0,
+    "rss_after_mb": 187.0
+  },
+  {
+    "label": "exact_user_79792",
+    "elapsed_s": 0.0022129169992695097,
+    "rss_before_mb": 187.0,
+    "rss_after_mb": 187.09375
+  },
+  {
+    "label": "popularity_user_79852",
+    "elapsed_s": 0.0027299579996906687,
+    "rss_before_mb": 187.09375,
+    "rss_after_mb": 187.09375
+  },
+  {
+    "label": "exact_user_79852",
+    "elapsed_s": 0.0013653329988301266,
+    "rss_before_mb": 187.09375,
+    "rss_after_mb": 187.09375
+  },
+  {
+    "label": "popularity_user_80001",
+    "elapsed_s": 0.002153167000869871,
+    "rss_before_mb": 187.09375,
+    "rss_after_mb": 187.09375
+  },
+  {
+    "label": "exact_user_80001",
+    "elapsed_s": 0.0027497090013639536,
+    "rss_before_mb": 187.09375,
+    "rss_after_mb": 187.09375
+  },
+  {
+    "label": "popularity_user_80073",
+    "elapsed_s": 0.0024000419998628786,
+    "rss_before_mb": 187.09375,
+    "rss_after_mb": 187.09375
+  },
+  {
+    "label": "exact_user_80073",
+    "elapsed_s": 0.0005284170001687016,
+    "rss_before_mb": 187.09375,
+    "rss_after_mb": 187.09375
+  },
+  {
+    "label": "popularity_user_80445",
+    "elapsed_s": 0.0023202079992188374,
+    "rss_before_mb": 187.09375,
+    "rss_after_mb": 187.09375
+  },
+  {
+    "label": "exact_user_80445",
+    "elapsed_s": 0.005149916998561821,
+    "rss_before_mb": 187.09375,
+    "rss_after_mb": 187.09375
+  },
+  {
+    "label": "popularity_user_81196",
+    "elapsed_s": 0.002297625000210246,
+    "rss_before_mb": 187.09375,
+    "rss_after_mb": 187.09375
+  },
+  {
+    "label": "exact_user_81196",
+    "elapsed_s": 0.0043006249998143176,
+    "rss_before_mb": 187.09375,
+    "rss_after_mb": 187.109375
+  },
+  {
+    "label": "popularity_user_82694",
+    "elapsed_s": 0.0023938750000525033,
+    "rss_before_mb": 187.109375,
+    "rss_after_mb": 187.109375
+  },
+  {
+    "label": "exact_user_82694",
+    "elapsed_s": 0.0002724580008361954,
+    "rss_before_mb": 187.109375,
+    "rss_after_mb": 187.109375
+  },
+  {
+    "label": "popularity_user_82802",
+    "elapsed_s": 0.0021078749996377155,
+    "rss_before_mb": 187.109375,
+    "rss_after_mb": 187.109375
+  },
+  {
+    "label": "exact_user_82802",
+    "elapsed_s": 0.0029694170007132925,
+    "rss_before_mb": 187.109375,
+    "rss_after_mb": 187.109375
+  },
+  {
+    "label": "popularity_user_82902",
+    "elapsed_s": 0.002267249999931664,
+    "rss_before_mb": 187.109375,
+    "rss_after_mb": 187.109375
+  },
+  {
+    "label": "exact_user_82902",
+    "elapsed_s": 0.0009297920005337801,
+    "rss_before_mb": 187.109375,
+    "rss_after_mb": 187.109375
+  },
+  {
+    "label": "popularity_user_84174",
+    "elapsed_s": 0.0022952090002945624,
+    "rss_before_mb": 187.109375,
+    "rss_after_mb": 187.109375
+  },
+  {
+    "label": "exact_user_84174",
+    "elapsed_s": 0.003864332999000908,
+    "rss_before_mb": 187.109375,
+    "rss_after_mb": 187.125
+  },
+  {
+    "label": "popularity_user_84237",
+    "elapsed_s": 0.0021672500006388873,
+    "rss_before_mb": 187.125,
+    "rss_after_mb": 187.125
+  },
+  {
+    "label": "exact_user_84237",
+    "elapsed_s": 0.003178832999765291,
+    "rss_before_mb": 187.125,
+    "rss_after_mb": 187.125
+  },
+  {
+    "label": "popularity_user_84275",
+    "elapsed_s": 0.0024264159983431455,
+    "rss_before_mb": 187.125,
+    "rss_after_mb": 187.125
+  },
+  {
+    "label": "exact_user_84275",
+    "elapsed_s": 0.0016446660010842606,
+    "rss_before_mb": 187.125,
+    "rss_after_mb": 187.140625
+  },
+  {
+    "label": "popularity_user_84468",
+    "elapsed_s": 0.00222520799979975,
+    "rss_before_mb": 187.140625,
+    "rss_after_mb": 187.140625
+  },
+  {
+    "label": "exact_user_84468",
+    "elapsed_s": 0.0010973330008710036,
+    "rss_before_mb": 187.140625,
+    "rss_after_mb": 187.15625
+  },
+  {
+    "label": "popularity_user_84781",
+    "elapsed_s": 0.0022775420002290048,
+    "rss_before_mb": 187.15625,
+    "rss_after_mb": 187.15625
+  },
+  {
+    "label": "exact_user_84781",
+    "elapsed_s": 0.0008688750003784662,
+    "rss_before_mb": 187.15625,
+    "rss_after_mb": 187.171875
+  },
+  {
+    "label": "popularity_user_85253",
+    "elapsed_s": 0.0021122500002093147,
+    "rss_before_mb": 187.171875,
+    "rss_after_mb": 187.171875
+  },
+  {
+    "label": "exact_user_85253",
+    "elapsed_s": 0.0009112499992625089,
+    "rss_before_mb": 187.171875,
+    "rss_after_mb": 187.171875
+  },
+  {
+    "label": "popularity_user_85604",
+    "elapsed_s": 0.002367334000155097,
+    "rss_before_mb": 187.171875,
+    "rss_after_mb": 187.171875
+  },
+  {
+    "label": "exact_user_85604",
+    "elapsed_s": 0.00036079200071981177,
+    "rss_before_mb": 187.171875,
+    "rss_after_mb": 187.171875
+  },
+  {
+    "label": "popularity_user_85804",
+    "elapsed_s": 0.0020439999989321223,
+    "rss_before_mb": 187.171875,
+    "rss_after_mb": 187.171875
+  },
+  {
+    "label": "exact_user_85804",
+    "elapsed_s": 0.003977708998718299,
+    "rss_before_mb": 187.171875,
+    "rss_after_mb": 187.203125
+  },
+  {
+    "label": "popularity_user_86152",
+    "elapsed_s": 0.0024343750010302756,
+    "rss_before_mb": 187.203125,
+    "rss_after_mb": 187.203125
+  },
+  {
+    "label": "exact_user_86152",
+    "elapsed_s": 0.0009793750014068792,
+    "rss_before_mb": 187.203125,
+    "rss_after_mb": 187.21875
+  },
+  {
+    "label": "popularity_user_87661",
+    "elapsed_s": 0.002224957999715116,
+    "rss_before_mb": 187.21875,
+    "rss_after_mb": 187.21875
+  },
+  {
+    "label": "exact_user_87661",
+    "elapsed_s": 0.003350834000229952,
+    "rss_before_mb": 187.21875,
+    "rss_after_mb": 187.21875
+  },
+  {
+    "label": "popularity_user_87664",
+    "elapsed_s": 0.0023946669989527436,
+    "rss_before_mb": 187.21875,
+    "rss_after_mb": 187.21875
+  },
+  {
+    "label": "exact_user_87664",
+    "elapsed_s": 0.00025416700009373017,
+    "rss_before_mb": 187.21875,
+    "rss_after_mb": 187.21875
+  },
+  {
+    "label": "popularity_user_87796",
+    "elapsed_s": 0.0022656250002910383,
+    "rss_before_mb": 187.21875,
+    "rss_after_mb": 187.21875
+  },
+  {
+    "label": "exact_user_87796",
+    "elapsed_s": 0.0033380000004399335,
+    "rss_before_mb": 187.21875,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "popularity_user_88802",
+    "elapsed_s": 0.0023040409996610833,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "exact_user_88802",
+    "elapsed_s": 0.0002456250003888272,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "popularity_user_89175",
+    "elapsed_s": 0.0022234169991861563,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "exact_user_89175",
+    "elapsed_s": 0.000309749999360065,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "popularity_user_89276",
+    "elapsed_s": 0.0027447499996924307,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "exact_user_89276",
+    "elapsed_s": 0.0008933749995776452,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "popularity_user_89787",
+    "elapsed_s": 0.0022586670002056053,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "exact_user_89787",
+    "elapsed_s": 0.001653708999583614,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "popularity_user_90690",
+    "elapsed_s": 0.0022572500001842855,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "exact_user_90690",
+    "elapsed_s": 0.0020587919989338843,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "popularity_user_90801",
+    "elapsed_s": 0.002292582999871229,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "exact_user_90801",
+    "elapsed_s": 0.0005848330001754221,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "popularity_user_90846",
+    "elapsed_s": 0.002443457999106613,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "exact_user_90846",
+    "elapsed_s": 0.000983750000159489,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "popularity_user_91420",
+    "elapsed_s": 0.0025154169998131692,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "exact_user_91420",
+    "elapsed_s": 0.0004772909996972885,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "popularity_user_91656",
+    "elapsed_s": 0.0022220420014491538,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "exact_user_91656",
+    "elapsed_s": 0.0019657079992612125,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "popularity_user_91758",
+    "elapsed_s": 0.002460291998431785,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.28125
+  },
+  {
+    "label": "exact_user_91758",
+    "elapsed_s": 0.0015575420002278406,
+    "rss_before_mb": 187.28125,
+    "rss_after_mb": 187.3125
+  },
+  {
+    "label": "popularity_user_92778",
+    "elapsed_s": 0.0023975420008355286,
+    "rss_before_mb": 187.3125,
+    "rss_after_mb": 187.3125
+  },
+  {
+    "label": "exact_user_92778",
+    "elapsed_s": 0.0003918330003216397,
+    "rss_before_mb": 187.3125,
+    "rss_after_mb": 187.3125
+  },
+  {
+    "label": "popularity_user_93095",
+    "elapsed_s": 0.002402959000392002,
+    "rss_before_mb": 187.3125,
+    "rss_after_mb": 187.3125
+  },
+  {
+    "label": "exact_user_93095",
+    "elapsed_s": 0.001591291000295314,
+    "rss_before_mb": 187.3125,
+    "rss_after_mb": 187.359375
+  },
+  {
+    "label": "popularity_user_93736",
+    "elapsed_s": 0.00211841700001969,
+    "rss_before_mb": 187.359375,
+    "rss_after_mb": 187.359375
+  },
+  {
+    "label": "exact_user_93736",
+    "elapsed_s": 0.0023070000006555347,
+    "rss_before_mb": 187.359375,
+    "rss_after_mb": 187.359375
+  },
+  {
+    "label": "popularity_user_93792",
+    "elapsed_s": 0.0024872919984773034,
+    "rss_before_mb": 187.359375,
+    "rss_after_mb": 187.359375
+  },
+  {
+    "label": "exact_user_93792",
+    "elapsed_s": 0.0026264579992130166,
+    "rss_before_mb": 187.359375,
+    "rss_after_mb": 187.359375
+  },
+  {
+    "label": "popularity_user_94036",
+    "elapsed_s": 0.002483375001247623,
+    "rss_before_mb": 187.359375,
+    "rss_after_mb": 187.359375
+  },
+  {
+    "label": "exact_user_94036",
+    "elapsed_s": 0.0011206670005776687,
+    "rss_before_mb": 187.359375,
+    "rss_after_mb": 187.359375
+  },
+  {
+    "label": "popularity_user_94238",
+    "elapsed_s": 0.0026070830008393386,
+    "rss_before_mb": 187.359375,
+    "rss_after_mb": 187.359375
+  },
+  {
+    "label": "exact_user_94238",
+    "elapsed_s": 0.00159041600090859,
+    "rss_before_mb": 187.359375,
+    "rss_after_mb": 187.359375
+  },
+  {
+    "label": "popularity_user_94323",
+    "elapsed_s": 0.002288125000632135,
+    "rss_before_mb": 187.359375,
+    "rss_after_mb": 187.359375
+  },
+  {
+    "label": "exact_user_94323",
+    "elapsed_s": 0.001007083999866154,
+    "rss_before_mb": 187.359375,
+    "rss_after_mb": 187.375
+  },
+  {
+    "label": "popularity_user_94647",
+    "elapsed_s": 0.0022834169994894182,
+    "rss_before_mb": 187.375,
+    "rss_after_mb": 187.375
+  },
+  {
+    "label": "exact_user_94647",
+    "elapsed_s": 0.002673832999789738,
+    "rss_before_mb": 187.375,
+    "rss_after_mb": 187.375
+  },
+  {
+    "label": "popularity_user_94660",
+    "elapsed_s": 0.00253833399983705,
+    "rss_before_mb": 187.375,
+    "rss_after_mb": 187.375
+  },
+  {
+    "label": "exact_user_94660",
+    "elapsed_s": 0.0002797919987642672,
+    "rss_before_mb": 187.375,
+    "rss_after_mb": 187.375
+  },
+  {
+    "label": "popularity_user_94844",
+    "elapsed_s": 0.0022436250001192093,
+    "rss_before_mb": 187.375,
+    "rss_after_mb": 187.375
+  },
+  {
+    "label": "exact_user_94844",
+    "elapsed_s": 0.0012159159996372182,
+    "rss_before_mb": 187.375,
+    "rss_after_mb": 187.390625
+  },
+  {
+    "label": "popularity_user_95196",
+    "elapsed_s": 0.002305583000634215,
+    "rss_before_mb": 187.390625,
+    "rss_after_mb": 187.390625
+  },
+  {
+    "label": "exact_user_95196",
+    "elapsed_s": 0.003828958000667626,
+    "rss_before_mb": 187.390625,
+    "rss_after_mb": 187.390625
+  },
+  {
+    "label": "popularity_user_95426",
+    "elapsed_s": 0.0024293330006912583,
+    "rss_before_mb": 187.390625,
+    "rss_after_mb": 187.390625
+  },
+  {
+    "label": "exact_user_95426",
+    "elapsed_s": 0.0017009580005833413,
+    "rss_before_mb": 187.390625,
+    "rss_after_mb": 187.390625
+  },
+  {
+    "label": "popularity_user_95702",
+    "elapsed_s": 0.0022878340005263453,
+    "rss_before_mb": 187.390625,
+    "rss_after_mb": 187.390625
+  },
+  {
+    "label": "exact_user_95702",
+    "elapsed_s": 0.0043454999995447,
+    "rss_before_mb": 187.390625,
+    "rss_after_mb": 187.40625
+  },
+  {
+    "label": "popularity_user_95943",
+    "elapsed_s": 0.002184000000852393,
+    "rss_before_mb": 187.40625,
+    "rss_after_mb": 187.421875
+  },
+  {
+    "label": "exact_user_95943",
+    "elapsed_s": 0.0004514170013862895,
+    "rss_before_mb": 187.421875,
+    "rss_after_mb": 187.421875
+  },
+  {
+    "label": "popularity_user_96154",
+    "elapsed_s": 0.001977582998733851,
+    "rss_before_mb": 187.421875,
+    "rss_after_mb": 187.421875
+  },
+  {
+    "label": "exact_user_96154",
+    "elapsed_s": 0.0013583330000983551,
+    "rss_before_mb": 187.421875,
+    "rss_after_mb": 187.421875
+  },
+  {
+    "label": "popularity_user_96268",
+    "elapsed_s": 0.002716750001127366,
+    "rss_before_mb": 187.421875,
+    "rss_after_mb": 187.421875
+  },
+  {
+    "label": "exact_user_96268",
+    "elapsed_s": 0.000745916999221663,
+    "rss_before_mb": 187.421875,
+    "rss_after_mb": 187.421875
+  },
+  {
+    "label": "popularity_user_96309",
+    "elapsed_s": 0.0022449579992098734,
+    "rss_before_mb": 187.421875,
+    "rss_after_mb": 187.421875
+  },
+  {
+    "label": "exact_user_96309",
+    "elapsed_s": 0.0002924999989772914,
+    "rss_before_mb": 187.421875,
+    "rss_after_mb": 187.421875
+  },
+  {
+    "label": "popularity_user_96419",
+    "elapsed_s": 0.002360165999562014,
+    "rss_before_mb": 187.421875,
+    "rss_after_mb": 187.421875
+  },
+  {
+    "label": "exact_user_96419",
+    "elapsed_s": 0.0005395420012064278,
+    "rss_before_mb": 187.421875,
+    "rss_after_mb": 187.421875
+  },
+  {
+    "label": "popularity_user_97606",
+    "elapsed_s": 0.0022657499994238606,
+    "rss_before_mb": 187.421875,
+    "rss_after_mb": 187.421875
+  },
+  {
+    "label": "exact_user_97606",
+    "elapsed_s": 0.002704917000301066,
+    "rss_before_mb": 187.421875,
+    "rss_after_mb": 187.453125
+  },
+  {
+    "label": "popularity_user_97625",
+    "elapsed_s": 0.0021526250002352754,
+    "rss_before_mb": 187.453125,
+    "rss_after_mb": 187.453125
+  },
+  {
+    "label": "exact_user_97625",
+    "elapsed_s": 0.0008743329999560956,
+    "rss_before_mb": 187.453125,
+    "rss_after_mb": 187.453125
+  },
+  {
+    "label": "popularity_user_97792",
+    "elapsed_s": 0.002473540998835233,
+    "rss_before_mb": 187.453125,
+    "rss_after_mb": 187.453125
+  },
+  {
+    "label": "exact_user_97792",
+    "elapsed_s": 0.0008550000002287561,
+    "rss_before_mb": 187.453125,
+    "rss_after_mb": 187.453125
+  },
+  {
+    "label": "popularity_user_98093",
+    "elapsed_s": 0.0020006249997095438,
+    "rss_before_mb": 187.453125,
+    "rss_after_mb": 187.453125
+  },
+  {
+    "label": "exact_user_98093",
+    "elapsed_s": 0.0007445000010193326,
+    "rss_before_mb": 187.453125,
+    "rss_after_mb": 187.453125
+  },
+  {
+    "label": "popularity_user_98218",
+    "elapsed_s": 0.0020655409989558393,
+    "rss_before_mb": 187.453125,
+    "rss_after_mb": 187.453125
+  },
+  {
+    "label": "exact_user_98218",
+    "elapsed_s": 0.000870292000399786,
+    "rss_before_mb": 187.453125,
+    "rss_after_mb": 187.46875
+  },
+  {
+    "label": "popularity_user_98226",
+    "elapsed_s": 0.002468042001055437,
+    "rss_before_mb": 187.46875,
+    "rss_after_mb": 187.46875
+  },
+  {
+    "label": "exact_user_98226",
+    "elapsed_s": 0.000699166999766021,
+    "rss_before_mb": 187.46875,
+    "rss_after_mb": 187.5
+  },
+  {
+    "label": "popularity_user_98383",
+    "elapsed_s": 0.0023970830006874166,
+    "rss_before_mb": 187.5,
+    "rss_after_mb": 187.5
+  },
+  {
+    "label": "exact_user_98383",
+    "elapsed_s": 0.001044415999785997,
+    "rss_before_mb": 187.5,
+    "rss_after_mb": 187.5
+  },
+  {
+    "label": "popularity_user_98679",
+    "elapsed_s": 0.002467540998623008,
+    "rss_before_mb": 187.5,
+    "rss_after_mb": 187.5
+  },
+  {
+    "label": "exact_user_98679",
+    "elapsed_s": 0.0022085829987190664,
+    "rss_before_mb": 187.5,
+    "rss_after_mb": 187.53125
+  },
+  {
+    "label": "popularity_user_98746",
+    "elapsed_s": 0.002208959000199684,
+    "rss_before_mb": 187.53125,
+    "rss_after_mb": 187.53125
+  },
+  {
+    "label": "exact_user_98746",
+    "elapsed_s": 0.0012329590008448577,
+    "rss_before_mb": 187.53125,
+    "rss_after_mb": 187.53125
+  },
+  {
+    "label": "popularity_user_99036",
+    "elapsed_s": 0.002078583000184153,
+    "rss_before_mb": 187.53125,
+    "rss_after_mb": 187.53125
+  },
+  {
+    "label": "exact_user_99036",
+    "elapsed_s": 0.0020024170007673092,
+    "rss_before_mb": 187.53125,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "popularity_user_99042",
+    "elapsed_s": 0.0021004169993830146,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "exact_user_99042",
+    "elapsed_s": 0.000195415999769466,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "popularity_user_99169",
+    "elapsed_s": 0.002349667000089539,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "exact_user_99169",
+    "elapsed_s": 0.0002977090007334482,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "popularity_user_100256",
+    "elapsed_s": 0.0023549580000690185,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "exact_user_100256",
+    "elapsed_s": 0.00032574999931966886,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "popularity_user_100279",
+    "elapsed_s": 0.0021987090003676713,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "exact_user_100279",
+    "elapsed_s": 0.0002596670001366874,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "popularity_user_100701",
+    "elapsed_s": 0.0022348330003296724,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "exact_user_100701",
+    "elapsed_s": 0.0012746669999614824,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "popularity_user_101221",
+    "elapsed_s": 0.0022324159999698168,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "exact_user_101221",
+    "elapsed_s": 0.001706499999272637,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "popularity_user_101605",
+    "elapsed_s": 0.002351375000216649,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "exact_user_101605",
+    "elapsed_s": 0.0003154160003759898,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "popularity_user_102336",
+    "elapsed_s": 0.0024102499992295634,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "exact_user_102336",
+    "elapsed_s": 0.0008514580003975425,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "popularity_user_102391",
+    "elapsed_s": 0.0024885830007406184,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "exact_user_102391",
+    "elapsed_s": 0.0002813749997585546,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "popularity_user_102673",
+    "elapsed_s": 0.0022665420001430903,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "exact_user_102673",
+    "elapsed_s": 0.0010000000002037268,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "popularity_user_102738",
+    "elapsed_s": 0.0023623750003025634,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "exact_user_102738",
+    "elapsed_s": 0.0006888329990033526,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "popularity_user_102877",
+    "elapsed_s": 0.002454834000673145,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.59375
+  },
+  {
+    "label": "exact_user_102877",
+    "elapsed_s": 0.0012064170005032793,
+    "rss_before_mb": 187.59375,
+    "rss_after_mb": 187.640625
+  },
+  {
+    "label": "popularity_user_103224",
+    "elapsed_s": 0.0023097089997463627,
+    "rss_before_mb": 187.640625,
+    "rss_after_mb": 187.640625
+  },
+  {
+    "label": "exact_user_103224",
+    "elapsed_s": 0.003393625000171596,
+    "rss_before_mb": 187.640625,
+    "rss_after_mb": 187.640625
+  },
+  {
+    "label": "popularity_user_103443",
+    "elapsed_s": 0.002464791999955196,
+    "rss_before_mb": 187.640625,
+    "rss_after_mb": 187.640625
+  },
+  {
+    "label": "exact_user_103443",
+    "elapsed_s": 0.0002630420003697509,
+    "rss_before_mb": 187.640625,
+    "rss_after_mb": 187.640625
+  },
+  {
+    "label": "popularity_user_103768",
+    "elapsed_s": 0.0021143750000192085,
+    "rss_before_mb": 187.640625,
+    "rss_after_mb": 187.640625
+  },
+  {
+    "label": "exact_user_103768",
+    "elapsed_s": 0.00348899999880814,
+    "rss_before_mb": 187.640625,
+    "rss_after_mb": 187.65625
+  },
+  {
+    "label": "popularity_user_103938",
+    "elapsed_s": 0.002223290999609162,
+    "rss_before_mb": 187.65625,
+    "rss_after_mb": 187.65625
+  },
+  {
+    "label": "exact_user_103938",
+    "elapsed_s": 0.001725542000713176,
+    "rss_before_mb": 187.65625,
+    "rss_after_mb": 187.75
+  },
+  {
+    "label": "popularity_user_104039",
+    "elapsed_s": 0.0023975000003702007,
+    "rss_before_mb": 187.75,
+    "rss_after_mb": 187.75
+  },
+  {
+    "label": "exact_user_104039",
+    "elapsed_s": 0.002171042000554735,
+    "rss_before_mb": 187.75,
+    "rss_after_mb": 187.75
+  },
+  {
+    "label": "popularity_user_104093",
+    "elapsed_s": 0.0024933339991548564,
+    "rss_before_mb": 187.75,
+    "rss_after_mb": 187.75
+  },
+  {
+    "label": "exact_user_104093",
+    "elapsed_s": 0.0006078750011511147,
+    "rss_before_mb": 187.75,
+    "rss_after_mb": 187.75
+  },
+  {
+    "label": "popularity_user_104379",
+    "elapsed_s": 0.0021695409996027593,
+    "rss_before_mb": 187.75,
+    "rss_after_mb": 187.75
+  },
+  {
+    "label": "exact_user_104379",
+    "elapsed_s": 0.0008911660006560851,
+    "rss_before_mb": 187.75,
+    "rss_after_mb": 187.75
+  },
+  {
+    "label": "popularity_user_105126",
+    "elapsed_s": 0.0027089169998362195,
+    "rss_before_mb": 187.75,
+    "rss_after_mb": 187.75
+  },
+  {
+    "label": "exact_user_105126",
+    "elapsed_s": 0.0010322910002287244,
+    "rss_before_mb": 187.75,
+    "rss_after_mb": 187.75
+  },
+  {
+    "label": "popularity_user_105182",
+    "elapsed_s": 0.002200375000029453,
+    "rss_before_mb": 187.75,
+    "rss_after_mb": 187.75
+  },
+  {
+    "label": "exact_user_105182",
+    "elapsed_s": 0.0023334159996011294,
+    "rss_before_mb": 187.75,
+    "rss_after_mb": 187.75
+  },
+  {
+    "label": "popularity_user_105902",
+    "elapsed_s": 0.0024753750003583264,
+    "rss_before_mb": 187.75,
+    "rss_after_mb": 187.75
+  },
+  {
+    "label": "exact_user_105902",
+    "elapsed_s": 0.004511708000791259,
+    "rss_before_mb": 187.75,
+    "rss_after_mb": 187.765625
+  },
+  {
+    "label": "popularity_user_106228",
+    "elapsed_s": 0.0027015420000680024,
+    "rss_before_mb": 187.765625,
+    "rss_after_mb": 187.765625
+  },
+  {
+    "label": "exact_user_106228",
+    "elapsed_s": 0.0002839999997377163,
+    "rss_before_mb": 187.765625,
+    "rss_after_mb": 187.765625
+  },
+  {
+    "label": "popularity_user_107142",
+    "elapsed_s": 0.00248374999864609,
+    "rss_before_mb": 187.765625,
+    "rss_after_mb": 187.765625
+  },
+  {
+    "label": "exact_user_107142",
+    "elapsed_s": 0.0027771249988290947,
+    "rss_before_mb": 187.765625,
+    "rss_after_mb": 187.78125
+  },
+  {
+    "label": "popularity_user_107493",
+    "elapsed_s": 0.002338583999517141,
+    "rss_before_mb": 187.78125,
+    "rss_after_mb": 187.78125
+  },
+  {
+    "label": "exact_user_107493",
+    "elapsed_s": 0.0002667919998202706,
+    "rss_before_mb": 187.78125,
+    "rss_after_mb": 187.78125
+  },
+  {
+    "label": "popularity_user_107530",
+    "elapsed_s": 0.0022192500000528526,
+    "rss_before_mb": 187.78125,
+    "rss_after_mb": 187.78125
+  },
+  {
+    "label": "exact_user_107530",
+    "elapsed_s": 0.00047487499978160486,
+    "rss_before_mb": 187.78125,
+    "rss_after_mb": 187.78125
+  },
+  {
+    "label": "popularity_user_107856",
+    "elapsed_s": 0.002404582999588456,
+    "rss_before_mb": 187.78125,
+    "rss_after_mb": 187.78125
+  },
+  {
+    "label": "exact_user_107856",
+    "elapsed_s": 0.0010042499998235144,
+    "rss_before_mb": 187.78125,
+    "rss_after_mb": 187.78125
+  },
+  {
+    "label": "popularity_user_108400",
+    "elapsed_s": 0.0020990829998481786,
+    "rss_before_mb": 187.78125,
+    "rss_after_mb": 187.78125
+  },
+  {
+    "label": "exact_user_108400",
+    "elapsed_s": 0.0034059999998135027,
+    "rss_before_mb": 187.78125,
+    "rss_after_mb": 187.78125
+  },
+  {
+    "label": "popularity_user_109075",
+    "elapsed_s": 0.0020978749998903368,
+    "rss_before_mb": 187.78125,
+    "rss_after_mb": 187.796875
+  },
+  {
+    "label": "exact_user_109075",
+    "elapsed_s": 0.001675999999861233,
+    "rss_before_mb": 187.796875,
+    "rss_after_mb": 187.796875
+  },
+  {
+    "label": "popularity_user_109087",
+    "elapsed_s": 0.002412290999927791,
+    "rss_before_mb": 187.796875,
+    "rss_after_mb": 187.796875
+  },
+  {
+    "label": "exact_user_109087",
+    "elapsed_s": 0.000589750001381617,
+    "rss_before_mb": 187.796875,
+    "rss_after_mb": 187.796875
+  },
+  {
+    "label": "popularity_user_109140",
+    "elapsed_s": 0.0022499579990835628,
+    "rss_before_mb": 187.796875,
+    "rss_after_mb": 187.796875
+  },
+  {
+    "label": "exact_user_109140",
+    "elapsed_s": 0.0011729170000762679,
+    "rss_before_mb": 187.796875,
+    "rss_after_mb": 187.796875
+  },
+  {
+    "label": "popularity_user_109569",
+    "elapsed_s": 0.0022130830002424773,
+    "rss_before_mb": 187.796875,
+    "rss_after_mb": 187.796875
+  },
+  {
+    "label": "exact_user_109569",
+    "elapsed_s": 0.0014006250003149034,
+    "rss_before_mb": 187.796875,
+    "rss_after_mb": 187.828125
+  },
+  {
+    "label": "popularity_user_109730",
+    "elapsed_s": 0.002317416998266708,
+    "rss_before_mb": 187.828125,
+    "rss_after_mb": 187.828125
+  },
+  {
+    "label": "exact_user_109730",
+    "elapsed_s": 0.0016369999993912643,
+    "rss_before_mb": 187.828125,
+    "rss_after_mb": 187.828125
+  },
+  {
+    "label": "popularity_user_110600",
+    "elapsed_s": 0.002514417001293623,
+    "rss_before_mb": 187.828125,
+    "rss_after_mb": 187.828125
+  },
+  {
+    "label": "exact_user_110600",
+    "elapsed_s": 0.0009267499990528449,
+    "rss_before_mb": 187.828125,
+    "rss_after_mb": 187.828125
+  },
+  {
+    "label": "popularity_user_110712",
+    "elapsed_s": 0.00205962499967427,
+    "rss_before_mb": 187.828125,
+    "rss_after_mb": 187.828125
+  },
+  {
+    "label": "exact_user_110712",
+    "elapsed_s": 0.0025040000000444707,
+    "rss_before_mb": 187.828125,
+    "rss_after_mb": 187.859375
+  },
+  {
+    "label": "popularity_user_110822",
+    "elapsed_s": 0.0024028749994613463,
+    "rss_before_mb": 187.859375,
+    "rss_after_mb": 187.859375
+  },
+  {
+    "label": "exact_user_110822",
+    "elapsed_s": 0.0013357919997361023,
+    "rss_before_mb": 187.859375,
+    "rss_after_mb": 187.875
+  },
+  {
+    "label": "popularity_user_110824",
+    "elapsed_s": 0.0023602080000273418,
+    "rss_before_mb": 187.875,
+    "rss_after_mb": 187.875
+  },
+  {
+    "label": "exact_user_110824",
+    "elapsed_s": 0.0004236670010868693,
+    "rss_before_mb": 187.875,
+    "rss_after_mb": 187.875
+  },
+  {
+    "label": "popularity_user_111318",
+    "elapsed_s": 0.0022566669995285338,
+    "rss_before_mb": 187.875,
+    "rss_after_mb": 187.875
+  },
+  {
+    "label": "exact_user_111318",
+    "elapsed_s": 0.0018463329997757683,
+    "rss_before_mb": 187.875,
+    "rss_after_mb": 187.875
+  },
+  {
+    "label": "popularity_user_111403",
+    "elapsed_s": 0.002171166999687557,
+    "rss_before_mb": 187.875,
+    "rss_after_mb": 187.875
+  },
+  {
+    "label": "exact_user_111403",
+    "elapsed_s": 0.000297583001156454,
+    "rss_before_mb": 187.875,
+    "rss_after_mb": 187.875
+  },
+  {
+    "label": "popularity_user_111705",
+    "elapsed_s": 0.002413582998997299,
+    "rss_before_mb": 187.875,
+    "rss_after_mb": 187.875
+  },
+  {
+    "label": "exact_user_111705",
+    "elapsed_s": 0.00031033300001581665,
+    "rss_before_mb": 187.875,
+    "rss_after_mb": 187.875
+  },
+  {
+    "label": "popularity_user_111987",
+    "elapsed_s": 0.002308666998942499,
+    "rss_before_mb": 187.875,
+    "rss_after_mb": 187.875
+  },
+  {
+    "label": "exact_user_111987",
+    "elapsed_s": 0.0004992909998691175,
+    "rss_before_mb": 187.875,
+    "rss_after_mb": 187.875
+  },
+  {
+    "label": "popularity_user_112119",
+    "elapsed_s": 0.0022160420012369286,
+    "rss_before_mb": 187.875,
+    "rss_after_mb": 187.875
+  },
+  {
+    "label": "exact_user_112119",
+    "elapsed_s": 0.000261875000433065,
+    "rss_before_mb": 187.875,
+    "rss_after_mb": 187.875
+  },
+  {
+    "label": "popularity_user_112121",
+    "elapsed_s": 0.002495499998985906,
+    "rss_before_mb": 187.890625,
+    "rss_after_mb": 187.890625
+  },
+  {
+    "label": "exact_user_112121",
+    "elapsed_s": 0.0002646249995450489,
+    "rss_before_mb": 187.890625,
+    "rss_after_mb": 187.890625
+  },
+  {
+    "label": "popularity_user_112236",
+    "elapsed_s": 0.002191250001487788,
+    "rss_before_mb": 187.890625,
+    "rss_after_mb": 187.890625
+  },
+  {
+    "label": "exact_user_112236",
+    "elapsed_s": 0.0013274580014694948,
+    "rss_before_mb": 187.890625,
+    "rss_after_mb": 187.890625
+  },
+  {
+    "label": "popularity_user_112977",
+    "elapsed_s": 0.0024926659989432665,
+    "rss_before_mb": 187.890625,
+    "rss_after_mb": 187.890625
+  },
+  {
+    "label": "exact_user_112977",
+    "elapsed_s": 0.0012624170012713876,
+    "rss_before_mb": 187.890625,
+    "rss_after_mb": 187.921875
+  },
+  {
+    "label": "popularity_user_113066",
+    "elapsed_s": 0.00225108300037391,
+    "rss_before_mb": 187.921875,
+    "rss_after_mb": 187.921875
+  },
+  {
+    "label": "exact_user_113066",
+    "elapsed_s": 0.00024174999998649582,
+    "rss_before_mb": 187.921875,
+    "rss_after_mb": 187.921875
+  },
+  {
+    "label": "popularity_user_113070",
+    "elapsed_s": 0.0023703749993728707,
+    "rss_before_mb": 187.921875,
+    "rss_after_mb": 187.921875
+  },
+  {
+    "label": "exact_user_113070",
+    "elapsed_s": 0.003478459000689327,
+    "rss_before_mb": 187.921875,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "popularity_user_113225",
+    "elapsed_s": 0.002448208000714658,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "exact_user_113225",
+    "elapsed_s": 0.0014592500010621734,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "popularity_user_114139",
+    "elapsed_s": 0.0024368750000576256,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "exact_user_114139",
+    "elapsed_s": 0.0007127500011847587,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "popularity_user_114639",
+    "elapsed_s": 0.0023497919992223615,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "exact_user_114639",
+    "elapsed_s": 0.001653084000281524,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "popularity_user_115333",
+    "elapsed_s": 0.0025974169984692708,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "exact_user_115333",
+    "elapsed_s": 0.0009685419991001254,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "popularity_user_115726",
+    "elapsed_s": 0.0023634999997739214,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "exact_user_115726",
+    "elapsed_s": 0.00029591699967568275,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "popularity_user_116232",
+    "elapsed_s": 0.0021606249993055826,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "exact_user_116232",
+    "elapsed_s": 0.0006939169998076977,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "popularity_user_116319",
+    "elapsed_s": 0.002631290999488556,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "exact_user_116319",
+    "elapsed_s": 0.0019335830002091825,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "popularity_user_116602",
+    "elapsed_s": 0.0022477090005850187,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "exact_user_116602",
+    "elapsed_s": 0.001061499999195803,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "popularity_user_117270",
+    "elapsed_s": 0.0023447499988833442,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.0
+  },
+  {
+    "label": "exact_user_117270",
+    "elapsed_s": 0.003988583001046209,
+    "rss_before_mb": 188.0,
+    "rss_after_mb": 188.015625
+  },
+  {
+    "label": "popularity_user_117523",
+    "elapsed_s": 0.0026643339988368098,
+    "rss_before_mb": 188.015625,
+    "rss_after_mb": 188.015625
+  },
+  {
+    "label": "exact_user_117523",
+    "elapsed_s": 0.000531625000803615,
+    "rss_before_mb": 188.015625,
+    "rss_after_mb": 188.015625
+  },
+  {
+    "label": "popularity_user_117810",
+    "elapsed_s": 0.002318250000826083,
+    "rss_before_mb": 188.015625,
+    "rss_after_mb": 188.015625
+  },
+  {
+    "label": "exact_user_117810",
+    "elapsed_s": 0.0032529589989280794,
+    "rss_before_mb": 188.015625,
+    "rss_after_mb": 188.015625
+  },
+  {
+    "label": "popularity_user_117888",
+    "elapsed_s": 0.0022650829996564426,
+    "rss_before_mb": 188.015625,
+    "rss_after_mb": 188.015625
+  },
+  {
+    "label": "exact_user_117888",
+    "elapsed_s": 0.000981500001216773,
+    "rss_before_mb": 188.015625,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "popularity_user_118046",
+    "elapsed_s": 0.002321666999705485,
+    "rss_before_mb": 188.046875,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "exact_user_118046",
+    "elapsed_s": 0.0002181250001740409,
+    "rss_before_mb": 188.046875,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "popularity_user_118293",
+    "elapsed_s": 0.002222459001131938,
+    "rss_before_mb": 188.046875,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "exact_user_118293",
+    "elapsed_s": 0.0002564170008554356,
+    "rss_before_mb": 188.046875,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "popularity_user_118310",
+    "elapsed_s": 0.0025795420006033964,
+    "rss_before_mb": 188.046875,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "exact_user_118310",
+    "elapsed_s": 0.0012042079997627297,
+    "rss_before_mb": 188.046875,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "popularity_user_118398",
+    "elapsed_s": 0.002102292000927264,
+    "rss_before_mb": 188.046875,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "exact_user_118398",
+    "elapsed_s": 0.0015945420000207378,
+    "rss_before_mb": 188.046875,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "popularity_user_118472",
+    "elapsed_s": 0.002163834000384668,
+    "rss_before_mb": 188.046875,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "exact_user_118472",
+    "elapsed_s": 0.0003010419986821944,
+    "rss_before_mb": 188.046875,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "popularity_user_118648",
+    "elapsed_s": 0.002372832999753882,
+    "rss_before_mb": 188.046875,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "exact_user_118648",
+    "elapsed_s": 0.0013804579994030064,
+    "rss_before_mb": 188.046875,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "popularity_user_119027",
+    "elapsed_s": 0.0023693340008321684,
+    "rss_before_mb": 188.046875,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "exact_user_119027",
+    "elapsed_s": 0.00227120799900149,
+    "rss_before_mb": 188.046875,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "popularity_user_119308",
+    "elapsed_s": 0.0023402080005325843,
+    "rss_before_mb": 188.046875,
+    "rss_after_mb": 188.046875
+  },
+  {
+    "label": "exact_user_119308",
+    "elapsed_s": 0.001075874999514781,
+    "rss_before_mb": 188.0625,
+    "rss_after_mb": 188.078125
+  },
+  {
+    "label": "popularity_user_120020",
+    "elapsed_s": 0.002321542000572663,
+    "rss_before_mb": 188.078125,
+    "rss_after_mb": 188.078125
+  },
+  {
+    "label": "exact_user_120020",
+    "elapsed_s": 0.00031112499891605694,
+    "rss_before_mb": 188.078125,
+    "rss_after_mb": 188.078125
+  },
+  {
+    "label": "popularity_user_120312",
+    "elapsed_s": 0.0021338330006983597,
+    "rss_before_mb": 188.078125,
+    "rss_after_mb": 188.078125
+  },
+  {
+    "label": "exact_user_120312",
+    "elapsed_s": 0.0011456249994807877,
+    "rss_before_mb": 188.078125,
+    "rss_after_mb": 188.09375
+  },
+  {
+    "label": "popularity_user_120792",
+    "elapsed_s": 0.0022038750012143282,
+    "rss_before_mb": 188.09375,
+    "rss_after_mb": 188.09375
+  },
+  {
+    "label": "exact_user_120792",
+    "elapsed_s": 0.0003295419992355164,
+    "rss_before_mb": 188.09375,
+    "rss_after_mb": 188.09375
+  },
+  {
+    "label": "popularity_user_121418",
+    "elapsed_s": 0.002807000000757398,
+    "rss_before_mb": 188.09375,
+    "rss_after_mb": 188.09375
+  },
+  {
+    "label": "exact_user_121418",
+    "elapsed_s": 0.0009582500006217742,
+    "rss_before_mb": 188.09375,
+    "rss_after_mb": 188.109375
+  },
+  {
+    "label": "popularity_user_121678",
+    "elapsed_s": 0.002444583999022143,
+    "rss_before_mb": 188.109375,
+    "rss_after_mb": 188.109375
+  },
+  {
+    "label": "exact_user_121678",
+    "elapsed_s": 0.00031766599931870587,
+    "rss_before_mb": 188.109375,
+    "rss_after_mb": 188.109375
+  },
+  {
+    "label": "popularity_user_122596",
+    "elapsed_s": 0.0022204580000106944,
+    "rss_before_mb": 188.125,
+    "rss_after_mb": 188.125
+  },
+  {
+    "label": "exact_user_122596",
+    "elapsed_s": 0.00028700000075332355,
+    "rss_before_mb": 188.125,
+    "rss_after_mb": 188.125
+  },
+  {
+    "label": "popularity_user_122898",
+    "elapsed_s": 0.002092292001179885,
+    "rss_before_mb": 188.125,
+    "rss_after_mb": 188.140625
+  },
+  {
+    "label": "exact_user_122898",
+    "elapsed_s": 0.00024983300136227626,
+    "rss_before_mb": 188.140625,
+    "rss_after_mb": 188.140625
+  },
+  {
+    "label": "popularity_user_123496",
+    "elapsed_s": 0.0021369589994719718,
+    "rss_before_mb": 188.140625,
+    "rss_after_mb": 188.140625
+  },
+  {
+    "label": "exact_user_123496",
+    "elapsed_s": 0.0002867089988285443,
+    "rss_before_mb": 188.140625,
+    "rss_after_mb": 188.140625
+  },
+  {
+    "label": "popularity_user_123831",
+    "elapsed_s": 0.002305457999682403,
+    "rss_before_mb": 188.15625,
+    "rss_after_mb": 188.15625
+  },
+  {
+    "label": "exact_user_123831",
+    "elapsed_s": 0.0013478750006470364,
+    "rss_before_mb": 188.15625,
+    "rss_after_mb": 188.171875
+  },
+  {
+    "label": "popularity_user_123902",
+    "elapsed_s": 0.0022699170003761537,
+    "rss_before_mb": 188.171875,
+    "rss_after_mb": 188.171875
+  },
+  {
+    "label": "exact_user_123902",
+    "elapsed_s": 0.0010491249995538965,
+    "rss_before_mb": 188.171875,
+    "rss_after_mb": 188.171875
+  },
+  {
+    "label": "popularity_user_124142",
+    "elapsed_s": 0.0023049589999573072,
+    "rss_before_mb": 188.171875,
+    "rss_after_mb": 188.171875
+  },
+  {
+    "label": "exact_user_124142",
+    "elapsed_s": 0.0004439170006662607,
+    "rss_before_mb": 188.171875,
+    "rss_after_mb": 188.171875
+  },
+  {
+    "label": "popularity_user_124204",
+    "elapsed_s": 0.002333750000616419,
+    "rss_before_mb": 188.171875,
+    "rss_after_mb": 188.171875
+  },
+  {
+    "label": "exact_user_124204",
+    "elapsed_s": 0.00035158300124749076,
+    "rss_before_mb": 188.171875,
+    "rss_after_mb": 188.171875
+  },
+  {
+    "label": "popularity_user_124326",
+    "elapsed_s": 0.0023570829998789122,
+    "rss_before_mb": 188.171875,
+    "rss_after_mb": 188.171875
+  },
+  {
+    "label": "exact_user_124326",
+    "elapsed_s": 0.0009508329985692399,
+    "rss_before_mb": 188.171875,
+    "rss_after_mb": 188.171875
+  },
+  {
+    "label": "popularity_user_124333",
+    "elapsed_s": 0.002562458999818773,
+    "rss_before_mb": 188.171875,
+    "rss_after_mb": 188.1875
+  },
+  {
+    "label": "exact_user_124333",
+    "elapsed_s": 0.00029387500035227276,
+    "rss_before_mb": 188.1875,
+    "rss_after_mb": 188.1875
+  },
+  {
+    "label": "popularity_user_124527",
+    "elapsed_s": 0.002129833001163206,
+    "rss_before_mb": 188.1875,
+    "rss_after_mb": 188.1875
+  },
+  {
+    "label": "exact_user_124527",
+    "elapsed_s": 0.0016866249989107018,
+    "rss_before_mb": 188.1875,
+    "rss_after_mb": 188.203125
+  },
+  {
+    "label": "popularity_user_124870",
+    "elapsed_s": 0.0020700000004580943,
+    "rss_before_mb": 188.21875,
+    "rss_after_mb": 188.21875
+  },
+  {
+    "label": "exact_user_124870",
+    "elapsed_s": 0.0011122080013592495,
+    "rss_before_mb": 188.21875,
+    "rss_after_mb": 188.28125
+  },
+  {
+    "label": "popularity_user_124892",
+    "elapsed_s": 0.0024828749992593657,
+    "rss_before_mb": 188.28125,
+    "rss_after_mb": 188.296875
+  },
+  {
+    "label": "exact_user_124892",
+    "elapsed_s": 0.0002472079995641252,
+    "rss_before_mb": 188.296875,
+    "rss_after_mb": 188.296875
+  },
+  {
+    "label": "popularity_user_124927",
+    "elapsed_s": 0.0021808750007039635,
+    "rss_before_mb": 188.296875,
+    "rss_after_mb": 188.296875
+  },
+  {
+    "label": "exact_user_124927",
+    "elapsed_s": 0.00033316699955321383,
+    "rss_before_mb": 188.296875,
+    "rss_after_mb": 188.296875
+  },
+  {
+    "label": "popularity_user_125072",
+    "elapsed_s": 0.0034974579994013766,
+    "rss_before_mb": 188.296875,
+    "rss_after_mb": 188.296875
+  },
+  {
+    "label": "exact_user_125072",
+    "elapsed_s": 0.0034583329997985857,
+    "rss_before_mb": 188.296875,
+    "rss_after_mb": 188.640625
+  },
+  {
+    "label": "popularity_user_125296",
+    "elapsed_s": 0.003310541000246303,
+    "rss_before_mb": 188.640625,
+    "rss_after_mb": 188.640625
+  },
+  {
+    "label": "exact_user_125296",
+    "elapsed_s": 0.0029767920004815096,
+    "rss_before_mb": 188.640625,
+    "rss_after_mb": 188.671875
+  },
+  {
+    "label": "popularity_user_125605",
+    "elapsed_s": 0.002801624999847263,
+    "rss_before_mb": 188.671875,
+    "rss_after_mb": 188.671875
+  },
+  {
+    "label": "exact_user_125605",
+    "elapsed_s": 0.0015410839987453073,
+    "rss_before_mb": 188.671875,
+    "rss_after_mb": 188.671875
+  },
+  {
+    "label": "popularity_user_126421",
+    "elapsed_s": 0.003334582999741542,
+    "rss_before_mb": 188.671875,
+    "rss_after_mb": 196.421875
+  },
+  {
+    "label": "exact_user_126421",
+    "elapsed_s": 0.0008303750000777654,
+    "rss_before_mb": 196.421875,
+    "rss_after_mb": 196.421875
+  },
+  {
+    "label": "popularity_user_126874",
+    "elapsed_s": 0.0027594170005613705,
+    "rss_before_mb": 196.421875,
+    "rss_after_mb": 196.421875
+  },
+  {
+    "label": "exact_user_126874",
+    "elapsed_s": 0.0016585840003244812,
+    "rss_before_mb": 196.421875,
+    "rss_after_mb": 196.4375
+  },
+  {
+    "label": "popularity_user_127186",
+    "elapsed_s": 0.0027485410009830957,
+    "rss_before_mb": 196.4375,
+    "rss_after_mb": 196.4375
+  },
+  {
+    "label": "exact_user_127186",
+    "elapsed_s": 0.00357633400017221,
+    "rss_before_mb": 196.4375,
+    "rss_after_mb": 196.4375
+  },
+  {
+    "label": "popularity_user_127338",
+    "elapsed_s": 0.0026438750010129297,
+    "rss_before_mb": 196.4375,
+    "rss_after_mb": 196.4375
+  },
+  {
+    "label": "exact_user_127338",
+    "elapsed_s": 0.002986374998727115,
+    "rss_before_mb": 196.4375,
+    "rss_after_mb": 196.484375
+  },
+  {
+    "label": "popularity_user_128118",
+    "elapsed_s": 0.002470291999998153,
+    "rss_before_mb": 196.484375,
+    "rss_after_mb": 196.484375
+  },
+  {
+    "label": "exact_user_128118",
+    "elapsed_s": 0.0013892499991925433,
+    "rss_before_mb": 196.484375,
+    "rss_after_mb": 196.484375
+  },
+  {
+    "label": "popularity_user_128470",
+    "elapsed_s": 0.002245749999929103,
+    "rss_before_mb": 196.484375,
+    "rss_after_mb": 196.484375
+  },
+  {
+    "label": "exact_user_128470",
+    "elapsed_s": 0.002331124998818268,
+    "rss_before_mb": 196.484375,
+    "rss_after_mb": 196.484375
+  },
+  {
+    "label": "popularity_user_128491",
+    "elapsed_s": 0.0028158339991932735,
+    "rss_before_mb": 196.484375,
+    "rss_after_mb": 196.484375
+  },
+  {
+    "label": "exact_user_128491",
+    "elapsed_s": 0.0011371670007065404,
+    "rss_before_mb": 196.484375,
+    "rss_after_mb": 196.484375
+  },
+  {
+    "label": "popularity_user_128778",
+    "elapsed_s": 0.0022514169995702105,
+    "rss_before_mb": 196.484375,
+    "rss_after_mb": 196.484375
+  },
+  {
+    "label": "exact_user_128778",
+    "elapsed_s": 0.0006177499999466818,
+    "rss_before_mb": 196.484375,
+    "rss_after_mb": 196.484375
+  },
+  {
+    "label": "popularity_user_128804",
+    "elapsed_s": 0.0022574590002477635,
+    "rss_before_mb": 196.484375,
+    "rss_after_mb": 196.484375
+  },
+  {
+    "label": "exact_user_128804",
+    "elapsed_s": 0.0003246670003136387,
+    "rss_before_mb": 196.484375,
+    "rss_after_mb": 196.484375
+  },
+  {
+    "label": "popularity_user_129436",
+    "elapsed_s": 0.0024370829996769316,
+    "rss_before_mb": 196.484375,
+    "rss_after_mb": 196.484375
+  },
+  {
+    "label": "exact_user_129436",
+    "elapsed_s": 0.0005490830008056946,
+    "rss_before_mb": 196.484375,
+    "rss_after_mb": 196.484375
+  },
+  {
+    "label": "popularity_user_129854",
+    "elapsed_s": 0.0021439169995574048,
+    "rss_before_mb": 196.484375,
+    "rss_after_mb": 196.484375
+  },
+  {
+    "label": "exact_user_129854",
+    "elapsed_s": 0.0015084999995451653,
+    "rss_before_mb": 196.484375,
+    "rss_after_mb": 196.5
+  },
+  {
+    "label": "popularity_user_130067",
+    "elapsed_s": 0.002549791001001722,
+    "rss_before_mb": 196.5,
+    "rss_after_mb": 196.5
+  },
+  {
+    "label": "exact_user_130067",
+    "elapsed_s": 0.00031066700103110634,
+    "rss_before_mb": 196.5,
+    "rss_after_mb": 196.5
+  },
+  {
+    "label": "popularity_user_130085",
+    "elapsed_s": 0.0026262920000590384,
+    "rss_before_mb": 196.5,
+    "rss_after_mb": 196.5
+  },
+  {
+    "label": "exact_user_130085",
+    "elapsed_s": 0.004878916999587091,
+    "rss_before_mb": 196.5,
+    "rss_after_mb": 196.546875
+  },
+  {
+    "label": "popularity_user_130173",
+    "elapsed_s": 0.0023056659993017092,
+    "rss_before_mb": 196.546875,
+    "rss_after_mb": 196.546875
+  },
+  {
+    "label": "exact_user_130173",
+    "elapsed_s": 0.002277749999848311,
+    "rss_before_mb": 196.546875,
+    "rss_after_mb": 196.5625
+  },
+  {
+    "label": "popularity_user_131311",
+    "elapsed_s": 0.0024224999997386476,
+    "rss_before_mb": 196.5625,
+    "rss_after_mb": 196.5625
+  },
+  {
+    "label": "exact_user_131311",
+    "elapsed_s": 0.00199645800057624,
+    "rss_before_mb": 196.5625,
+    "rss_after_mb": 196.5625
+  },
+  {
+    "label": "popularity_user_131346",
+    "elapsed_s": 0.002140874999895459,
+    "rss_before_mb": 196.5625,
+    "rss_after_mb": 196.5625
+  },
+  {
+    "label": "exact_user_131346",
+    "elapsed_s": 0.0021898329996474786,
+    "rss_before_mb": 196.5625,
+    "rss_after_mb": 196.5625
+  },
+  {
+    "label": "popularity_user_131395",
+    "elapsed_s": 0.0024748750001890585,
+    "rss_before_mb": 196.5625,
+    "rss_after_mb": 196.5625
+  },
+  {
+    "label": "exact_user_131395",
+    "elapsed_s": 0.000970957999015809,
+    "rss_before_mb": 196.5625,
+    "rss_after_mb": 196.5625
+  },
+  {
+    "label": "popularity_user_131678",
+    "elapsed_s": 0.002376374999585096,
+    "rss_before_mb": 196.5625,
+    "rss_after_mb": 196.5625
+  },
+  {
+    "label": "exact_user_131678",
+    "elapsed_s": 0.0009605419982108288,
+    "rss_before_mb": 196.5625,
+    "rss_after_mb": 196.5625
+  },
+  {
+    "label": "popularity_user_131745",
+    "elapsed_s": 0.0023065840014169225,
+    "rss_before_mb": 196.5625,
+    "rss_after_mb": 196.5625
+  },
+  {
+    "label": "exact_user_131745",
+    "elapsed_s": 0.001192416000776575,
+    "rss_before_mb": 196.5625,
+    "rss_after_mb": 196.5625
+  },
+  {
+    "label": "popularity_user_132770",
+    "elapsed_s": 0.0022002919995429693,
+    "rss_before_mb": 196.5625,
+    "rss_after_mb": 196.5625
+  },
+  {
+    "label": "exact_user_132770",
+    "elapsed_s": 0.000274875001196051,
+    "rss_before_mb": 196.5625,
+    "rss_after_mb": 196.5625
+  },
+  {
+    "label": "popularity_user_132849",
+    "elapsed_s": 0.002163875000405824,
+    "rss_before_mb": 196.5625,
+    "rss_after_mb": 196.5625
+  },
+  {
+    "label": "exact_user_132849",
+    "elapsed_s": 0.0010687919984775363,
+    "rss_before_mb": 196.5625,
+    "rss_after_mb": 196.59375
+  },
+  {
+    "label": "popularity_user_132949",
+    "elapsed_s": 0.002402750000328524,
+    "rss_before_mb": 196.59375,
+    "rss_after_mb": 196.59375
+  },
+  {
+    "label": "exact_user_132949",
+    "elapsed_s": 0.0012935830000060378,
+    "rss_before_mb": 196.59375,
+    "rss_after_mb": 196.609375
+  },
+  {
+    "label": "popularity_user_133138",
+    "elapsed_s": 0.0026646669994079275,
+    "rss_before_mb": 196.609375,
+    "rss_after_mb": 196.609375
+  },
+  {
+    "label": "exact_user_133138",
+    "elapsed_s": 0.00029970800096634775,
+    "rss_before_mb": 196.609375,
+    "rss_after_mb": 196.609375
+  },
+  {
+    "label": "popularity_user_133609",
+    "elapsed_s": 0.002264041999296751,
+    "rss_before_mb": 196.609375,
+    "rss_after_mb": 196.609375
+  },
+  {
+    "label": "exact_user_133609",
+    "elapsed_s": 0.0012179580007796176,
+    "rss_before_mb": 196.609375,
+    "rss_after_mb": 196.609375
+  },
+  {
+    "label": "popularity_user_133983",
+    "elapsed_s": 0.0021518749999813735,
+    "rss_before_mb": 196.609375,
+    "rss_after_mb": 196.609375
+  },
+  {
+    "label": "exact_user_133983",
+    "elapsed_s": 0.0002971660014736699,
+    "rss_before_mb": 196.609375,
+    "rss_after_mb": 196.609375
+  },
+  {
+    "label": "popularity_user_134044",
+    "elapsed_s": 0.0024432080008409685,
+    "rss_before_mb": 196.625,
+    "rss_after_mb": 196.625
+  },
+  {
+    "label": "exact_user_134044",
+    "elapsed_s": 0.002307834000021103,
+    "rss_before_mb": 196.625,
+    "rss_after_mb": 196.65625
+  },
+  {
+    "label": "popularity_user_134201",
+    "elapsed_s": 0.0026051659988297615,
+    "rss_before_mb": 196.65625,
+    "rss_after_mb": 196.65625
+  },
+  {
+    "label": "exact_user_134201",
+    "elapsed_s": 0.0012834169992856914,
+    "rss_before_mb": 196.65625,
+    "rss_after_mb": 196.65625
+  },
+  {
+    "label": "popularity_user_134228",
+    "elapsed_s": 0.0021527499993680976,
+    "rss_before_mb": 196.65625,
+    "rss_after_mb": 196.65625
+  },
+  {
+    "label": "exact_user_134228",
+    "elapsed_s": 0.0026842090010177344,
+    "rss_before_mb": 196.65625,
+    "rss_after_mb": 196.65625
+  },
+  {
+    "label": "popularity_user_134338",
+    "elapsed_s": 0.0021558330008701887,
+    "rss_before_mb": 196.65625,
+    "rss_after_mb": 196.65625
+  },
+  {
+    "label": "exact_user_134338",
+    "elapsed_s": 0.0002778750003926689,
+    "rss_before_mb": 196.65625,
+    "rss_after_mb": 196.65625
+  },
+  {
+    "label": "popularity_user_134533",
+    "elapsed_s": 0.0020604590008588275,
+    "rss_before_mb": 196.65625,
+    "rss_after_mb": 196.65625
+  },
+  {
+    "label": "exact_user_134533",
+    "elapsed_s": 0.0011040829995181412,
+    "rss_before_mb": 196.65625,
+    "rss_after_mb": 196.671875
+  },
+  {
+    "label": "popularity_user_134813",
+    "elapsed_s": 0.00239299999884679,
+    "rss_before_mb": 196.671875,
+    "rss_after_mb": 196.671875
+  },
+  {
+    "label": "exact_user_134813",
+    "elapsed_s": 0.0019740419993468095,
+    "rss_before_mb": 196.671875,
+    "rss_after_mb": 196.703125
+  },
+  {
+    "label": "popularity_user_135038",
+    "elapsed_s": 0.0024835839994921116,
+    "rss_before_mb": 196.703125,
+    "rss_after_mb": 196.703125
+  },
+  {
+    "label": "exact_user_135038",
+    "elapsed_s": 0.001314084000114235,
+    "rss_before_mb": 196.703125,
+    "rss_after_mb": 196.703125
+  },
+  {
+    "label": "popularity_user_135695",
+    "elapsed_s": 0.0023119170000427403,
+    "rss_before_mb": 196.703125,
+    "rss_after_mb": 196.703125
+  },
+  {
+    "label": "exact_user_135695",
+    "elapsed_s": 0.0004695839998021256,
+    "rss_before_mb": 196.703125,
+    "rss_after_mb": 196.703125
+  },
+  {
+    "label": "popularity_user_136475",
+    "elapsed_s": 0.002425667000352405,
+    "rss_before_mb": 196.703125,
+    "rss_after_mb": 196.703125
+  },
+  {
+    "label": "exact_user_136475",
+    "elapsed_s": 0.0013012920007895445,
+    "rss_before_mb": 196.703125,
+    "rss_after_mb": 196.734375
+  },
+  {
+    "label": "popularity_user_136504",
+    "elapsed_s": 0.0024455829989165068,
+    "rss_before_mb": 196.734375,
+    "rss_after_mb": 196.734375
+  },
+  {
+    "label": "exact_user_136504",
+    "elapsed_s": 0.0023873749996710103,
+    "rss_before_mb": 196.734375,
+    "rss_after_mb": 196.78125
+  },
+  {
+    "label": "popularity_user_137455",
+    "elapsed_s": 0.0026747080009954516,
+    "rss_before_mb": 196.78125,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "exact_user_137455",
+    "elapsed_s": 0.00030049999986658804,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "popularity_user_137494",
+    "elapsed_s": 0.0022857500007376075,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "exact_user_137494",
+    "elapsed_s": 0.00038387499989767093,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "popularity_user_138374",
+    "elapsed_s": 0.0021917499998380663,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "exact_user_138374",
+    "elapsed_s": 0.0001626249995752005,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "popularity_user_138556",
+    "elapsed_s": 0.0020319579998613335,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "exact_user_138556",
+    "elapsed_s": 0.0022368329991877545,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "popularity_user_138803",
+    "elapsed_s": 0.002252083000712446,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "exact_user_138803",
+    "elapsed_s": 0.0011026249994756654,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "popularity_user_138968",
+    "elapsed_s": 0.002696542000194313,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "exact_user_138968",
+    "elapsed_s": 0.001589333998708753,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "popularity_user_139270",
+    "elapsed_s": 0.002255707999211154,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "exact_user_139270",
+    "elapsed_s": 0.0003105409996351227,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "popularity_user_139279",
+    "elapsed_s": 0.002242792001197813,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "exact_user_139279",
+    "elapsed_s": 0.0006789580002077855,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "popularity_user_139705",
+    "elapsed_s": 0.0023274169998330763,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "exact_user_139705",
+    "elapsed_s": 0.001742917000228772,
+    "rss_before_mb": 196.796875,
+    "rss_after_mb": 196.8125
+  },
+  {
+    "label": "popularity_user_139832",
+    "elapsed_s": 0.002380500000072061,
+    "rss_before_mb": 196.8125,
+    "rss_after_mb": 196.8125
+  },
+  {
+    "label": "exact_user_139832",
+    "elapsed_s": 0.001419915999576915,
+    "rss_before_mb": 196.8125,
+    "rss_after_mb": 196.8125
+  },
+  {
+    "label": "popularity_user_139991",
+    "elapsed_s": 0.0024052910011960194,
+    "rss_before_mb": 196.8125,
+    "rss_after_mb": 196.8125
+  },
+  {
+    "label": "exact_user_139991",
+    "elapsed_s": 0.0027970410010311753,
+    "rss_before_mb": 196.8125,
+    "rss_after_mb": 196.84375
+  },
+  {
+    "label": "popularity_user_140494",
+    "elapsed_s": 0.0025053749996004626,
+    "rss_before_mb": 196.84375,
+    "rss_after_mb": 196.84375
+  },
+  {
+    "label": "exact_user_140494",
+    "elapsed_s": 0.0006622089986194624,
+    "rss_before_mb": 196.84375,
+    "rss_after_mb": 196.84375
+  },
+  {
+    "label": "popularity_user_140663",
+    "elapsed_s": 0.0022547080006916076,
+    "rss_before_mb": 196.84375,
+    "rss_after_mb": 196.84375
+  },
+  {
+    "label": "exact_user_140663",
+    "elapsed_s": 0.002012000000831904,
+    "rss_before_mb": 196.84375,
+    "rss_after_mb": 196.796875
+  },
+  {
+    "label": "popularity_user_141262",
+    "elapsed_s": 0.0030181249985616887,
+    "rss_before_mb": 196.59375,
+    "rss_after_mb": 196.59375
+  },
+  {
+    "label": "exact_user_141262",
+    "elapsed_s": 0.0012781249988620402,
+    "rss_before_mb": 196.59375,
+    "rss_after_mb": 196.59375
+  },
+  {
+    "label": "popularity_user_141326",
+    "elapsed_s": 0.002243708000605693,
+    "rss_before_mb": 196.59375,
+    "rss_after_mb": 196.59375
+  },
+  {
+    "label": "exact_user_141326",
+    "elapsed_s": 0.0016040419995988486,
+    "rss_before_mb": 196.59375,
+    "rss_after_mb": 196.59375
+  },
+  {
+    "label": "popularity_user_141492",
+    "elapsed_s": 0.005075625000245054,
+    "rss_before_mb": 196.59375,
+    "rss_after_mb": 194.09375
+  },
+  {
+    "label": "exact_user_141492",
+    "elapsed_s": 0.0004717499996331753,
+    "rss_before_mb": 194.09375,
+    "rss_after_mb": 194.09375
+  },
+  {
+    "label": "popularity_user_141676",
+    "elapsed_s": 0.002817541999320383,
+    "rss_before_mb": 194.09375,
+    "rss_after_mb": 194.09375
+  },
+  {
+    "label": "exact_user_141676",
+    "elapsed_s": 0.005956584000159637,
+    "rss_before_mb": 194.09375,
+    "rss_after_mb": 194.09375
+  },
+  {
+    "label": "popularity_user_142110",
+    "elapsed_s": 0.005452957999295904,
+    "rss_before_mb": 194.09375,
+    "rss_after_mb": 194.09375
+  },
+  {
+    "label": "exact_user_142110",
+    "elapsed_s": 0.0038195830002223374,
+    "rss_before_mb": 194.09375,
+    "rss_after_mb": 194.09375
+  },
+  {
+    "label": "popularity_user_142614",
+    "elapsed_s": 0.0036412919998838333,
+    "rss_before_mb": 194.09375,
+    "rss_after_mb": 194.171875
+  },
+  {
+    "label": "exact_user_142614",
+    "elapsed_s": 0.0002797090000967728,
+    "rss_before_mb": 194.171875,
+    "rss_after_mb": 194.171875
+  },
+  {
+    "label": "popularity_user_143469",
+    "elapsed_s": 0.016346083999451366,
+    "rss_before_mb": 194.171875,
+    "rss_after_mb": 194.171875
+  },
+  {
+    "label": "exact_user_143469",
+    "elapsed_s": 0.000369249999494059,
+    "rss_before_mb": 194.171875,
+    "rss_after_mb": 194.171875
+  },
+  {
+    "label": "popularity_user_143473",
+    "elapsed_s": 0.003312124999865773,
+    "rss_before_mb": 194.1875,
+    "rss_after_mb": 194.1875
+  },
+  {
+    "label": "exact_user_143473",
+    "elapsed_s": 0.000922875000469503,
+    "rss_before_mb": 194.1875,
+    "rss_after_mb": 194.203125
+  },
+  {
+    "label": "popularity_user_143482",
+    "elapsed_s": 0.003020416999788722,
+    "rss_before_mb": 194.203125,
+    "rss_after_mb": 194.203125
+  },
+  {
+    "label": "exact_user_143482",
+    "elapsed_s": 0.0025068750001082662,
+    "rss_before_mb": 194.203125,
+    "rss_after_mb": 194.203125
+  },
+  {
+    "label": "popularity_user_143525",
+    "elapsed_s": 0.005924208000578801,
+    "rss_before_mb": 194.203125,
+    "rss_after_mb": 194.203125
+  },
+  {
+    "label": "exact_user_143525",
+    "elapsed_s": 0.0002998750005644979,
+    "rss_before_mb": 194.203125,
+    "rss_after_mb": 194.203125
+  },
+  {
+    "label": "popularity_user_143986",
+    "elapsed_s": 0.006553582999913488,
+    "rss_before_mb": 194.203125,
+    "rss_after_mb": 193.5
+  },
+  {
+    "label": "exact_user_143986",
+    "elapsed_s": 0.0003405420011404203,
+    "rss_before_mb": 193.5,
+    "rss_after_mb": 193.5
+  },
+  {
+    "label": "popularity_user_144007",
+    "elapsed_s": 0.004353584001364652,
+    "rss_before_mb": 193.5,
+    "rss_after_mb": 193.5
+  },
+  {
+    "label": "exact_user_144007",
+    "elapsed_s": 0.004098084000361268,
+    "rss_before_mb": 193.5,
+    "rss_after_mb": 193.515625
+  },
+  {
+    "label": "popularity_user_144142",
+    "elapsed_s": 0.0024508340011379914,
+    "rss_before_mb": 193.53125,
+    "rss_after_mb": 193.53125
+  },
+  {
+    "label": "exact_user_144142",
+    "elapsed_s": 0.0010849999998754356,
+    "rss_before_mb": 193.53125,
+    "rss_after_mb": 193.53125
+  },
+  {
+    "label": "popularity_user_144646",
+    "elapsed_s": 0.0072707919989625225,
+    "rss_before_mb": 193.53125,
+    "rss_after_mb": 192.375
+  },
+  {
+    "label": "exact_user_144646",
+    "elapsed_s": 0.004872500001511071,
+    "rss_before_mb": 192.375,
+    "rss_after_mb": 192.46875
+  },
+  {
+    "label": "popularity_user_144855",
+    "elapsed_s": 0.002419166999970912,
+    "rss_before_mb": 192.46875,
+    "rss_after_mb": 192.46875
+  },
+  {
+    "label": "exact_user_144855",
+    "elapsed_s": 0.0012327909989835462,
+    "rss_before_mb": 192.46875,
+    "rss_after_mb": 192.46875
+  },
+  {
+    "label": "popularity_user_145101",
+    "elapsed_s": 0.002248249998956453,
+    "rss_before_mb": 192.46875,
+    "rss_after_mb": 192.46875
+  },
+  {
+    "label": "exact_user_145101",
+    "elapsed_s": 0.00377058300000499,
+    "rss_before_mb": 192.46875,
+    "rss_after_mb": 192.5
+  },
+  {
+    "label": "popularity_user_145261",
+    "elapsed_s": 0.0026539999998931307,
+    "rss_before_mb": 192.5,
+    "rss_after_mb": 192.5
+  },
+  {
+    "label": "exact_user_145261",
+    "elapsed_s": 0.0002653340015967842,
+    "rss_before_mb": 192.5,
+    "rss_after_mb": 192.5
+  },
+  {
+    "label": "popularity_user_145306",
+    "elapsed_s": 0.0022843750011816155,
+    "rss_before_mb": 192.5,
+    "rss_after_mb": 192.5
+  },
+  {
+    "label": "exact_user_145306",
+    "elapsed_s": 0.0005542079998122063,
+    "rss_before_mb": 192.5,
+    "rss_after_mb": 192.5
+  },
+  {
+    "label": "popularity_user_145361",
+    "elapsed_s": 0.0021311669988790527,
+    "rss_before_mb": 192.5,
+    "rss_after_mb": 192.5
+  },
+  {
+    "label": "exact_user_145361",
+    "elapsed_s": 0.00029241599986562505,
+    "rss_before_mb": 192.5,
+    "rss_after_mb": 192.5
+  },
+  {
+    "label": "popularity_user_145738",
+    "elapsed_s": 0.0024363749998883577,
+    "rss_before_mb": 192.5,
+    "rss_after_mb": 192.5
+  },
+  {
+    "label": "exact_user_145738",
+    "elapsed_s": 0.0019035830009670462,
+    "rss_before_mb": 192.5,
+    "rss_after_mb": 192.5
+  },
+  {
+    "label": "popularity_user_145821",
+    "elapsed_s": 0.002363208001042949,
+    "rss_before_mb": 192.5,
+    "rss_after_mb": 192.5
+  },
+  {
+    "label": "exact_user_145821",
+    "elapsed_s": 0.0013966250007797498,
+    "rss_before_mb": 192.5,
+    "rss_after_mb": 192.5
+  },
+  {
+    "label": "popularity_user_146274",
+    "elapsed_s": 0.0025530839993734844,
+    "rss_before_mb": 192.5,
+    "rss_after_mb": 192.5
+  },
+  {
+    "label": "exact_user_146274",
+    "elapsed_s": 0.0003028329992957879,
+    "rss_before_mb": 192.5,
+    "rss_after_mb": 192.5
+  },
+  {
+    "label": "popularity_user_146505",
+    "elapsed_s": 0.0023312499997700797,
+    "rss_before_mb": 192.5,
+    "rss_after_mb": 192.5
+  },
+  {
+    "label": "exact_user_146505",
+    "elapsed_s": 0.0011885000003530877,
+    "rss_before_mb": 192.5,
+    "rss_after_mb": 192.5
+  },
+  {
+    "label": "popularity_user_146515",
+    "elapsed_s": 0.002487458999894443,
+    "rss_before_mb": 192.515625,
+    "rss_after_mb": 192.515625
+  },
+  {
+    "label": "exact_user_146515",
+    "elapsed_s": 0.002788207999401493,
+    "rss_before_mb": 192.515625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "popularity_user_146725",
+    "elapsed_s": 0.002360083999519702,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "exact_user_146725",
+    "elapsed_s": 0.0016917080010898644,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "popularity_user_147075",
+    "elapsed_s": 0.0024427080006717006,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "exact_user_147075",
+    "elapsed_s": 0.0003394579998712288,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "popularity_user_147258",
+    "elapsed_s": 0.00232812499962165,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "exact_user_147258",
+    "elapsed_s": 0.0002978330012410879,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "popularity_user_147921",
+    "elapsed_s": 0.002313332999619888,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "exact_user_147921",
+    "elapsed_s": 0.00023175000023911707,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "popularity_user_148190",
+    "elapsed_s": 0.002489333999619703,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "exact_user_148190",
+    "elapsed_s": 0.00028729199948429596,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "popularity_user_148356",
+    "elapsed_s": 0.00252474999979313,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "exact_user_148356",
+    "elapsed_s": 0.0015459579990420025,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "popularity_user_148489",
+    "elapsed_s": 0.002501375000065309,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "exact_user_148489",
+    "elapsed_s": 0.0010109159993589856,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "popularity_user_148656",
+    "elapsed_s": 0.0026082500007760245,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "exact_user_148656",
+    "elapsed_s": 0.000508708000779734,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "popularity_user_148657",
+    "elapsed_s": 0.002470125000400003,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "exact_user_148657",
+    "elapsed_s": 0.0002835000013874378,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "popularity_user_148780",
+    "elapsed_s": 0.0021744580008089542,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.5625
+  },
+  {
+    "label": "exact_user_148780",
+    "elapsed_s": 0.00046137500066834036,
+    "rss_before_mb": 192.5625,
+    "rss_after_mb": 192.578125
+  },
+  {
+    "label": "popularity_user_148977",
+    "elapsed_s": 0.0032149999988178024,
+    "rss_before_mb": 192.578125,
+    "rss_after_mb": 192.578125
+  },
+  {
+    "label": "exact_user_148977",
+    "elapsed_s": 0.0008003330003703013,
+    "rss_before_mb": 192.578125,
+    "rss_after_mb": 192.578125
+  },
+  {
+    "label": "popularity_user_149547",
+    "elapsed_s": 0.0024287500000355067,
+    "rss_before_mb": 192.578125,
+    "rss_after_mb": 192.578125
+  },
+  {
+    "label": "exact_user_149547",
+    "elapsed_s": 0.003066208999371156,
+    "rss_before_mb": 192.578125,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "popularity_user_149755",
+    "elapsed_s": 0.002531624999392079,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "exact_user_149755",
+    "elapsed_s": 0.0014352500002132729,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "popularity_user_149862",
+    "elapsed_s": 0.0023672079987591133,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "exact_user_149862",
+    "elapsed_s": 0.00038429099913628306,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "popularity_user_150016",
+    "elapsed_s": 0.0033039169993571704,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "exact_user_150016",
+    "elapsed_s": 0.001049959000738454,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "popularity_user_150292",
+    "elapsed_s": 0.002389958999629016,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "exact_user_150292",
+    "elapsed_s": 0.0013227089984866325,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "popularity_user_150341",
+    "elapsed_s": 0.002202292000220041,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "exact_user_150341",
+    "elapsed_s": 0.0012830830000893911,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "popularity_user_150394",
+    "elapsed_s": 0.0022794590004195925,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "exact_user_150394",
+    "elapsed_s": 0.00029349999931582715,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "popularity_user_152230",
+    "elapsed_s": 0.002923665999333025,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "exact_user_152230",
+    "elapsed_s": 0.00029025000003457535,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "popularity_user_152455",
+    "elapsed_s": 0.00237629099865444,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "exact_user_152455",
+    "elapsed_s": 0.0009211250016960548,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "popularity_user_153252",
+    "elapsed_s": 0.002148457999282982,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "exact_user_153252",
+    "elapsed_s": 0.00025483299941697624,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "popularity_user_153306",
+    "elapsed_s": 0.0021225000000413274,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "exact_user_153306",
+    "elapsed_s": 0.0003299160016467795,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "popularity_user_153763",
+    "elapsed_s": 0.0023924580000311835,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "exact_user_153763",
+    "elapsed_s": 0.00027262500043434557,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "popularity_user_153876",
+    "elapsed_s": 0.002187791998949251,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.6875
+  },
+  {
+    "label": "exact_user_153876",
+    "elapsed_s": 0.003448542000114685,
+    "rss_before_mb": 192.6875,
+    "rss_after_mb": 192.71875
+  },
+  {
+    "label": "popularity_user_154043",
+    "elapsed_s": 0.0023266659991350025,
+    "rss_before_mb": 192.71875,
+    "rss_after_mb": 192.71875
+  },
+  {
+    "label": "exact_user_154043",
+    "elapsed_s": 0.001953958999365568,
+    "rss_before_mb": 192.71875,
+    "rss_after_mb": 192.734375
+  },
+  {
+    "label": "popularity_user_154124",
+    "elapsed_s": 0.002262707999761915,
+    "rss_before_mb": 192.734375,
+    "rss_after_mb": 192.734375
+  },
+  {
+    "label": "exact_user_154124",
+    "elapsed_s": 0.0014262500008044299,
+    "rss_before_mb": 192.734375,
+    "rss_after_mb": 192.75
+  },
+  {
+    "label": "popularity_user_154190",
+    "elapsed_s": 0.002413541998976143,
+    "rss_before_mb": 192.75,
+    "rss_after_mb": 192.75
+  },
+  {
+    "label": "exact_user_154190",
+    "elapsed_s": 0.00025445800019952003,
+    "rss_before_mb": 192.75,
+    "rss_after_mb": 192.75
+  },
+  {
+    "label": "popularity_user_154951",
+    "elapsed_s": 0.002237833999970462,
+    "rss_before_mb": 192.75,
+    "rss_after_mb": 192.75
+  },
+  {
+    "label": "exact_user_154951",
+    "elapsed_s": 0.0005920829989918275,
+    "rss_before_mb": 192.75,
+    "rss_after_mb": 192.75
+  },
+  {
+    "label": "popularity_user_155327",
+    "elapsed_s": 0.0026275000000168802,
+    "rss_before_mb": 192.75,
+    "rss_after_mb": 192.75
+  },
+  {
+    "label": "exact_user_155327",
+    "elapsed_s": 0.0013532500015571713,
+    "rss_before_mb": 192.75,
+    "rss_after_mb": 192.75
+  },
+  {
+    "label": "popularity_user_156660",
+    "elapsed_s": 0.0025229999992006924,
+    "rss_before_mb": 192.75,
+    "rss_after_mb": 192.75
+  },
+  {
+    "label": "exact_user_156660",
+    "elapsed_s": 0.003879832998791244,
+    "rss_before_mb": 192.75,
+    "rss_after_mb": 192.8125
+  },
+  {
+    "label": "popularity_user_156998",
+    "elapsed_s": 0.002384666999205365,
+    "rss_before_mb": 192.8125,
+    "rss_after_mb": 192.8125
+  },
+  {
+    "label": "exact_user_156998",
+    "elapsed_s": 0.0002829999993991805,
+    "rss_before_mb": 192.8125,
+    "rss_after_mb": 192.8125
+  },
+  {
+    "label": "popularity_user_157499",
+    "elapsed_s": 0.002531916999942041,
+    "rss_before_mb": 192.8125,
+    "rss_after_mb": 192.8125
+  },
+  {
+    "label": "exact_user_157499",
+    "elapsed_s": 0.0004409579996718094,
+    "rss_before_mb": 192.8125,
+    "rss_after_mb": 192.8125
+  },
+  {
+    "label": "popularity_user_158138",
+    "elapsed_s": 0.0024330410014954396,
+    "rss_before_mb": 192.8125,
+    "rss_after_mb": 192.8125
+  },
+  {
+    "label": "exact_user_158138",
+    "elapsed_s": 0.0007422079997922992,
+    "rss_before_mb": 192.8125,
+    "rss_after_mb": 192.8125
+  },
+  {
+    "label": "popularity_user_158685",
+    "elapsed_s": 0.0022136249990580836,
+    "rss_before_mb": 192.8125,
+    "rss_after_mb": 192.8125
+  },
+  {
+    "label": "exact_user_158685",
+    "elapsed_s": 0.0007736250008747447,
+    "rss_before_mb": 192.8125,
+    "rss_after_mb": 192.8125
+  },
+  {
+    "label": "popularity_user_158822",
+    "elapsed_s": 0.0023845420000725426,
+    "rss_before_mb": 192.8125,
+    "rss_after_mb": 192.8125
+  },
+  {
+    "label": "exact_user_158822",
+    "elapsed_s": 0.0012198340009490494,
+    "rss_before_mb": 192.8125,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "popularity_user_158835",
+    "elapsed_s": 0.002421499999400112,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "exact_user_158835",
+    "elapsed_s": 0.0003334159991936758,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "popularity_user_159056",
+    "elapsed_s": 0.002692249998290208,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "exact_user_159056",
+    "elapsed_s": 0.0003372920000401791,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "popularity_user_159510",
+    "elapsed_s": 0.002273541000249679,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "exact_user_159510",
+    "elapsed_s": 0.00033054199957405217,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "popularity_user_159857",
+    "elapsed_s": 0.002435124999465188,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "exact_user_159857",
+    "elapsed_s": 0.000278290999631281,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "popularity_user_160231",
+    "elapsed_s": 0.0022705410010530613,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "exact_user_160231",
+    "elapsed_s": 0.0006839580000814749,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "popularity_user_160666",
+    "elapsed_s": 0.002360167000006186,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "exact_user_160666",
+    "elapsed_s": 0.0009595420015102718,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "popularity_user_161036",
+    "elapsed_s": 0.0031014999985927716,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "exact_user_161036",
+    "elapsed_s": 0.00102083300043887,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "popularity_user_161250",
+    "elapsed_s": 0.0024081249994196696,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  },
+  {
+    "label": "exact_user_161250",
+    "elapsed_s": 0.000308165999740595,
+    "rss_before_mb": 192.859375,
+    "rss_after_mb": 192.859375
+  }
+]
