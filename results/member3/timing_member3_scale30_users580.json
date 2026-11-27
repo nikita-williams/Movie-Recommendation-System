@@ -1,0 +1,98 @@
+[
+  {
+    "label": "load_data",
+    "elapsed_s": 0.15626279218122363,
+    "rss_before_mb": 72.828125,
+    "rss_after_mb": 132.421875
+  },
+  {
+    "label": "signatures_seed0",
+    "elapsed_s": 1.0052262907847762,
+    "rss_before_mb": 90.28125,
+    "rss_after_mb": 90.453125
+  },
+  {
+    "label": "index_b64_r2_scale30_seed0",
+    "elapsed_s": 0.115557333920151,
+    "rss_before_mb": 90.671875,
+    "rss_after_mb": 97.40625
+  },
+  {
+    "label": "index_b32_r4_scale30_seed0",
+    "elapsed_s": 0.08937954204156995,
+    "rss_before_mb": 85.390625,
+    "rss_after_mb": 92.53125
+  },
+  {
+    "label": "index_b16_r8_scale30_seed0",
+    "elapsed_s": 0.04896675003692508,
+    "rss_before_mb": 92.921875,
+    "rss_after_mb": 102.03125
+  },
+  {
+    "label": "index_b8_r16_scale30_seed0",
+    "elapsed_s": 0.03263929067179561,
+    "rss_before_mb": 88.078125,
+    "rss_after_mb": 94.625
+  },
+  {
+    "label": "signatures_seed1",
+    "elapsed_s": 1.1856447500176728,
+    "rss_before_mb": 80.28125,
+    "rss_after_mb": 79.15625
+  },
+  {
+    "label": "index_b64_r2_scale30_seed1",
+    "elapsed_s": 0.206172582693398,
+    "rss_before_mb": 80.09375,
+    "rss_after_mb": 77.25
+  },
+  {
+    "label": "index_b32_r4_scale30_seed1",
+    "elapsed_s": 0.09231837466359138,
+    "rss_before_mb": 107.3125,
+    "rss_after_mb": 106.453125
+  },
+  {
+    "label": "index_b16_r8_scale30_seed1",
+    "elapsed_s": 0.03703749971464276,
+    "rss_before_mb": 97.71875,
+    "rss_after_mb": 105.609375
+  },
+  {
+    "label": "index_b8_r16_scale30_seed1",
+    "elapsed_s": 0.021516582928597927,
+    "rss_before_mb": 97.90625,
+    "rss_after_mb": 100.46875
+  },
+  {
+    "label": "signatures_seed2",
+    "elapsed_s": 1.2453780411742628,
+    "rss_before_mb": 99.171875,
+    "rss_after_mb": 81.375
+  },
+  {
+    "label": "index_b64_r2_scale30_seed2",
+    "elapsed_s": 0.12267949990928173,
+    "rss_before_mb": 82.421875,
+    "rss_after_mb": 85.546875
+  },
+  {
+    "label": "index_b32_r4_scale30_seed2",
+    "elapsed_s": 0.1215337086468935,
+    "rss_before_mb": 94.359375,
+    "rss_after_mb": 104.03125
+  },
+  {
+    "label": "index_b16_r8_scale30_seed2",
+    "elapsed_s": 0.04202841687947512,
+    "rss_before_mb": 131.515625,
+    "rss_after_mb": 137.125
+  },
+  {
+    "label": "index_b8_r16_scale30_seed2",
+    "elapsed_s": 0.02400362491607666,
+    "rss_before_mb": 114.796875,
+    "rss_after_mb": 118.640625
+  }
+]
