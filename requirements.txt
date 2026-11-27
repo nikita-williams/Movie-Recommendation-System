@@ -4,3 +4,4 @@ pandas
 datasketch
 psutil>=5.9
 pytest>=7
+matplotlib

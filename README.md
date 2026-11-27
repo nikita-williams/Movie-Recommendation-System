@@ -249,3 +249,34 @@ Both methods use the same recommendation output schema, enabling comparisons wit
 - Memory measurements reflect the Python process rather than individual algorithm allocations.
 - Recommendation-quality metrics must be calculated separately using held-out test data.
 - Processed MovieLens data must be prepared locally before executing the runner.
+
+
+---
+
+## Member 3 — MinHash and LSH
+
+**Project:** Movie Recommendation System — ENSF 612. Approximate item-item neighbours: MinHash signatures, banded LSH, exact Jaccard re-scoring on candidates only.
+
+| File | Purpose |
+|---|---|
+| `src/minhash.py` | 128 random hash functions `(a*u+b) mod 2^31-1`, signature matrix `(items, 128)` |
+| `src/lsh.py` | banding for (64,2), (32,4), (16,8), (8,16); bucket index; theoretical S-curve |
+| `src/candidates.py` | candidate sets, candidate sizes, candidate recall vs the exact top-50 |
+| `src/rescore.py` | exact Jaccard on the candidates only; same output layout as `exact_neighbors_for_queries` |
+| `src/s_curve.py` | theory vs measured candidate rate, as a PDF |
+| `scripts/run_member3.py` | runs everything for one scale, writes `results/member3/` |
+| `tests/test_minhash.py`, `tests/test_lsh_recall.py` | MinHash accuracy (incl. datasketch cross-check), S-curve agreement, re-scoring equals exact |
+
+```bash
+python -m scripts.run_member3 --scale 10 --users 50                    # quick check
+python -m scripts.run_member3 --scale 10 --users 580 --seeds 0 1 2 --reps 3
+python -m src.s_curve --scale 10 --queries 300 --seeds 0 1 2
+python -m pytest tests/test_minhash.py tests/test_lsh_recall.py -v
+```
+
+Outputs per seed and setting (`results/member3/`): `lsh_b{b}_r{r}_scale{S}_seed{s}_users{N}.csv` (same columns as `results/member2/*.csv`, `method = lsh_{b}_{r}`),
+`lsh_neighbours_*.npz` (row indices, `-1` padded, plus per-query `candidate_sizes` and `candidate_recall`), `lsh_candidate_stats_*.json`.
+
+Notes: the signature matrix is the same for all four settings (every setting has b x r = 128), so it is computed once per seed.
+Latency in the stats JSON is candidate lookup + re-scoring per unique query item, build time excluded, next to Member 2's exact search timed in the same process.
+Candidate recall = |candidates and exact top-50| / |exact top-50|.
