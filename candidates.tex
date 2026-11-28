@@ -1,0 +1,21 @@
+\begin{table}[ht]\centering
+\caption{LSH candidate recall and cost, mean of 3 hash seeds}
+\begin{tabular}{llllllll}
+\hline
+Scale & Method & Candidate recall & Mean candidates & LSH ms/query & Exact ms/query & Speed-up & Index MB \\
+\hline
+10\% & LSH (64, 2) & 0.4899 & 185.144 & 0.588 & 1.086 & 1.8$\times$ & 8.2 \\
+10\% & LSH (32, 4) & 0.0124 & 1.093 & 0.226 & 1.086 & 4.8$\times$ & 6.0 \\
+10\% & LSH (16, 8) & 0.0001 & 0.006 & 0.098 & 1.086 & 11.1$\times$ & 4.5 \\
+10\% & LSH (8, 16) & 0.0000 & 0.001 & 0.052 & 1.086 & 20.8$\times$ & 3.7 \\
+30\% & LSH (64, 2) & 0.4311 & 173.671 & 0.873 & 2.712 & 3.1$\times$ & 12.4 \\
+30\% & LSH (32, 4) & 0.0103 & 0.885 & 0.231 & 2.712 & 11.7$\times$ & 8.9 \\
+30\% & LSH (16, 8) & 0.0001 & 0.006 & 0.101 & 2.712 & 26.8$\times$ & 6.7 \\
+30\% & LSH (8, 16) & 0.0000 & 0.000 & 0.061 & 2.712 & 44.8$\times$ & 5.6 \\
+100\% & LSH (64, 2) & 0.3891 & 156.192 & 1.401 & 7.480 & 5.3$\times$ & 17.7 \\
+100\% & LSH (32, 4) & 0.0098 & 0.832 & 0.240 & 7.480 & 31.1$\times$ & 12.6 \\
+100\% & LSH (16, 8) & 0.0001 & 0.005 & 0.101 & 7.480 & 73.9$\times$ & 9.4 \\
+100\% & LSH (8, 16) & 0.0000 & 0.000 & 0.053 & 7.480 & 142.0$\times$ & 7.9 \\
+\hline
+\end{tabular}
+\end{table}
